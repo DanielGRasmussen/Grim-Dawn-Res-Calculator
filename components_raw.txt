@@ -1,0 +1,1719 @@
+Battered Shell
+"A shell that has survived seemingly impossible blows."
+(Used in shields)
+Component
++15 Physique
++10% Shield Block Chance
+Granted Skills
+Shield Slam (Granted by Item)
+Slam your enemy with your shield, disabling lesser foes completely. Requires a melee weapon.
+21 Energy Cost
+3 Second Skill Recharge
+275 Degree Attack Arc
+3 Target Maximum
+230% Weapon Damage
+85-112 Physical Damage
+Stun target for 0.5 - 2 Seconds
+Taunt target
+12% Reduced target's Damage for 3 Seconds
+Required Player Level: 1
+Item Level: 1
+Battered Shell
+Bristly Fur
+"A thick patch of fur from an unnatural beast."
+(Used in all armor)
+Component
++90 Health
++25% Constitution
+Required Player Level: 1
+Item Level: 1
+Bristly Fur
+Polished Emerald
+"A fine gem polished to perfection."
+(Used in shields, caster off-hands, rings, head and chest armor)
+Component
++8 Physique
++8 Cunning
++8 Spirit
+Required Player Level: 1
+Item Level: 1
+Scavenged Plating
+"Plating from armor that's seen better days."
+(Used in all armor)
+Component
++15 Armor
+Required Player Level: 1
+Item Level: 1
+Scavenged Plating
+Chilled Steel
+"This steel is infused with a chilling winter wind."
+(Used in all weapons, shields and caster off-hands)
+Component
+3 Cold Damage
++12% Cold Damage
+10% Physical Damage converted to Cold Damage
+Granted Skills
+Ice Spike (Granted by Item)
+Launch a spike of rock solid ice to impale your enemies.
+18 Energy Cost
+100% Chance to pass through Enemies
+22% Weapon Damage
+63-92 Cold Damage
+20% Slow target for 2 Seconds
+Required Player Level: 5
+Item Level: 1
+Chilled Steel
+Chipped Claw
+"A claw from a ruthless predator that finally met its match."
+(Used in all weapons, shields and caster off-hands)
+Component
+4 Physical Damage
++12% Physical Damage
+Granted Skills
+Slam (Granted by Item)
+Slam your enemy with an overpowering blow.
+22 Energy Cost
+3.5 Second Skill Recharge
+240% Weapon Damage
+100-212 Physical Damage
++30% Crit Damage
+Required Player Level: 5
+Item Level: 1
+Cracked Lodestone
+"Sparks of energy jump across its surface."
+(Used in all weapons, shields and caster off-hands)
+Component
+1-5 Lightning Damage
++12% Lightning Damage
+10% Physical Damage converted to Lightning Damage
+Granted Skills
+Lightning Nova (Granted by Item)
+Unleashes a blast of lightning energy, damaging all nearby enemies.
+25 Energy Cost
+4.8 Meter Target Area
+22% Weapon Damage
+22-118 Lightning Damage
+Required Player Level: 5
+Item Level: 1
+Cracked Lodestone
+Mutagenic Ichor
+"Discharge from the creatures of Cairn infected with otherworldly energies."
+(Used in all weapons, shields and caster off-hands)
+Component
+15 Poison Damage over 5 Seconds
++10% Acid Damage
++10% Poison Damage
+10% Physical Damage converted to Acid Damage
+Granted Skills
+Poison Bomb (Granted by Item)
+Launch a foul bomb which explodes at the target point, coating your enemies with toxins.
+32 Energy Cost
+4 Second Duration
+2.2 Meter Radius
+12% Weapon Damage
+12 Acid Damage
+124 Poison Damage over 2 Seconds
+Required Player Level: 5
+Item Level: 1
+Mutagenic Ichor
+Searing Ember
+"An everlasting ember from a burnt-down home."
+(Used in all weapons, shields and caster off-hands)
+Component
+2-4 Fire Damage
++12% Fire Damage
+10% Physical Damage converted to Fire Damage
+Granted Skills
+Fireblast (Granted by Item)
+Launch a ball of incinerating flame at your target.
+18 Energy Cost
+2.5 Meter Radius
+20% Weapon Damage
+52-60 Fire Damage
+126 Burn Damage over 3 Seconds
+Required Player Level: 5
+Item Level: 1
+Searing Ember
+Serrated Spike
+"A flimsy but extremely sharp spike from a beast."
+(Used in all weapons, shields and caster off-hands)
+Component
+3 Piercing Damage
+9 Bleeding Damage over 3 Seconds
++12% Bleeding Damage
+Granted Skills
+Impaling Weapons (Granted by Item)
+Empower your attacks to pierce through armor.
+5 Piercing Damage
++25% Pierce Damage
+50 Energy Reserved
+Bonus to All Pets
+5 Physical Damage
++25% Physical Damage
+Required Player Level: 5
+Item Level: 1
+Serrated Spike
+Frozen Heart
+"Eternally encased in black ice."
+(Used in rings)
+Component
++70 Health
+10% Cold Resistance
+21% Reduced Freeze Duration
+21% Reduced Petrify Duration
+Required Player Level: 1
+Item Level: 5
+Frozen Heart
+Roiling Blood
+"Bubbling with the rage that once fueled it."
+(Used in rings, amulets and medals)
+Component
++8% Physical Damage
++18 Offensive Ability
+Required Player Level: 1
+Item Level: 5
+Roiling Blood
+Corpse Dust
+"Dust derived from the remains of the deceased, often used for witchcraft and enchantments."
+(Used in rings, amulets and medals)
+Component
++4% Health
+Increases Health Regeneration by 24%
+10% Vitality Resistance
+Required Player Level: 7
+Item Level: 11
+Ectoplasm
+"A gelatinous residue sometimes left behind by non-corporeal entities."
+(Used in head armor, rings, amulets and medals)
+Component
++20% Energy
++3 Energy Regenerated per second
+Required Player Level: 7
+Item Level: 11
+Ectoplasm
+Scaled Hide
+"These dense but lightweight scales can be layered onto armor for extra protection."
+(Used in shoulder, chest and leg armor)
+Component
++35 Armor
+Increases Armor Absorption by 20%
+Required Player Level: 7
+Item Level: 11
+Blueprint: Scaled Hide
+Wardstone
+"A stone etching of an ancient protective symbol."
+(Used in amulets and medals)
+Component
++6% Movement Speed
+18% Elemental Resistance
+18% Bleeding Resistance
+Required Player Level: 7
+Item Level: 11
+Blueprint: Wardstone
+Hollowed Fang
+"A curved fang intended for the consumption of vital fluids."
+(Used in all weapons, shields and caster off-hands)
+Component
+5% of Attack Damage converted to Health
+18 Vitality Decay Damage over 3 Seconds
++18% Vitality Damage
++18% Vitality Decay
+10% Physical Damage converted to Vitality Damage
+Granted Skills
+Blooddrinker (Granted by Item)
+Empower your attacks with vampiric energy.
+50 Energy Cost
+26 Second Skill Recharge
+8 Second Duration
+20% of Attack Damage converted to Health
+162 Bleeding Damage over 3 Seconds
+Required Player Level: 11
+Item Level: 11
+Blueprint: Hollowed Fang
+Antivenom Salve
+"The neutralized bile from a particularly toxic creature."
+(Used in all armor)
+Component
++10 Health Regenerated per second
++24 Armor
+20% Poison & Acid Resistance
+Required Player Level: 15
+Item Level: 20
+Antivenom Salve
+Deathchill Bolts
+"Deliver the cold chill of death upon your enemies."
+(Used in guns, crossbows and caster off-hands)
+Component
+5 Cold Damage
++25% Cold Damage
++25% Frostburn Damage
+12% Chance of 25% Slower target Movement for 3 Seconds
+10% Physical Damage converted to Cold Damage
+Granted Skills
+Greater Ice Spike (Granted by Item)
+Launch a spike of rock solid ice to impale your enemies.
+32 Energy Cost
+100% Chance to pass through Enemies
+32% Weapon Damage
+125-166 Cold Damage
+15% Chance to Freeze target for 0.5 Seconds
+20% Slow target for 2 Seconds
+Required Player Level: 15
+Item Level: 20
+Deathchill Bolts
+Dense Fur
+"A dense coat of fur perfect for harsh winter conditions."
+(Used in all armor)
+Component
++90 Health
++24 Armor
+20% Cold Resistance
+Required Player Level: 15
+Item Level: 20
+Dense Fur
+Flintcore Bolts
+"The enchanted core sparks flame with any surface."
+(Used in guns, crossbows and caster off-hands)
+Component
+4-6 Fire Damage
+15 Burn Damage over 3 Seconds
++25% Fire Damage
++25% Burn Damage
+10% Physical Damage converted to Fire Damage
+Granted Skills
+Greater Fireblast (Granted by Item)
+Launch a ball of incinerating flame at your target.
+32 Energy Cost
+2.5 Meter Radius
+28% Weapon Damage
+95-124 Fire Damage
+225 Burn Damage over 3 Seconds
+15% Chance to Stun target for 0.5 Seconds
+Required Player Level: 15
+Item Level: 20
+Flintcore Bolts
+Imbued Silver
+"Silver dust enhanced with powerful sorcery."
+(Used in all weapons, shields and caster off-hands)
+Component
++10% Damage to Chthonics
++30 Defensive Ability
+15% Bleeding Resistance
+Granted Skills
+Void-Ward (Granted by Item)
+Shield yourself from the chaotic Void.
+150 Energy Reserved
+20% Chaos Resistance
++3% Maximum Chaos Resistance
+Bonus to All Pets
+20% Chaos Resistance
++3% Maximum Chaos Resistance
+Required Player Level: 15
+Item Level: 20
+Blueprint: Imbued Silver
+Molten Skin
+"A thick layer of skin from a fiery creature."
+(Used in all armor)
+Component
++24 Armor
+20% Fire Resistance
+15% Reduction in Burn Duration
+Required Player Level: 15
+Item Level: 20
+Molten Skin
+Mutated Scales
+"Unusually thick, tough scales mutated by exposure to Aetherial energy."
+(Used in shoulder, chest, leg and hand armor)
+Component
++180 Health
++3% Health
+Required Player Level: 15
+Item Level: 20
+Reinforced Shell
+"A nearly impervious shell that has absorbed countless blows."
+(Used in shields)
+Component
++10 Physique
++8% Shield Block Chance
++22% Shield Damage Blocked
+Granted Skills
+Blade Ward (Granted by Item)
+Empower your armor against piercing attacks, retaliating against your attackers in kind.
+45 Energy Cost
+12 Second Skill Recharge
+4 Second Duration
+-20% Shield Recovery Time
+24% Pierce Resistance
+Increases Armor by 15%
+224 Physical Damage Retaliation
+Required Player Level: 15
+Item Level: 20
+Reinforced Shell
+Resilient Plating
+"A plate of armor that's survived countless battles and looks fit to survive many more."
+(Used in shields, caster off-hands, chest and shoulder armor)
+Component
++26 Defensive Ability
++24 Armor
+15% Pierce Resistance
+Required Player Level: 15
+Item Level: 20
+Resilient Plating
+Rigid Shell
+"A tough shell seemingly impervious to shock."
+(Used in all armor)
+Component
++10 Physique
++24 Armor
+20% Lightning Resistance
+Required Player Level: 15
+Item Level: 20
+Rigid Shell
+Silk Swatch
+"Western nomads have long known that layered silk can envelop and slow the penetration of piercing projectiles."
+(Used in shoulder, chest and leg armor)
+Component
+18% Pierce Resistance
+18% Bleeding Resistance
+Required Player Level: 15
+Item Level: 20
+Blueprint: Silk Swatch
+Vicious Spikes
+"Savage spikes from an unnatural being."
+(Used in all weapons, shields and caster off-hands)
+Component
+4 Piercing Damage
++4% Crit Damage
++18% Pierce Damage
+Granted Skills
+Empowered Impaling Weapons (Granted by Item)
+Empower your attacks to pierce through armor.
+10 Piercing Damage
++75% Pierce Damage
+150 Energy Reserved
+Bonus to All Pets
+8 Physical Damage
++75% Physical Damage
+Required Player Level: 15
+Item Level: 20
+Vicious Spikes
+Purified Salt
+"Rock salt extracted for the exorcism and deterrence of otherworldly demons."
+(Used in all weapons, shields and caster off-hands)
+Component
++10% Damage to Aetherials
++10% Damage to Aether Corruptions
++30 Defensive Ability
+25% Life Leech Resistance
+Granted Skills
+Aether-Ward (Granted by Item)
+Shield yourself from the corrupting power of the Aether.
+150 Energy Reserved
+20% Aether Resistance
++3% Maximum Aether Resistance
+Bonus to All Pets
+20% Aether Resistance
++3% Maximum Aether Resistance
+Required Player Level: 20
+Item Level: 20
+Blueprint: Purified Salt
+Aethersteel Bolts
+"Augmented with the essence of Aetherial monstrosities."
+(Used in guns, crossbows and caster off-hands)
+Component
+4-6 Aether Damage
++25% Aether Damage
+10% Physical Damage converted to Aether Damage
+Granted Skills
+Aether Tendril (Granted by Item)
+Unleash a blast of pure aether energy at your target.
+55 Energy Cost
+2.5 Second Skill Recharge
+40% Weapon Damage
+412-625 Aether Damage
+40% Slow target for 3 Seconds
+15 Reduced target's Resistances for 3 Seconds
+Required Player Level: 20
+Item Level: 25
+Aethersteel Bolts
+Amber
+"It is said that sometimes storm spirits become entrapped in the crystalized sap of lightning-struck trees."
+(Used in melee weapons, shields and caster off-hands)
+Component
+2-8 Lightning Damage
++25% Lightning Damage
++25% Electrocute Damage
+10% Physical Damage converted to Lightning Damage
+Granted Skills
+Empowered Lightning Nova (Granted by Item)
+Unleashes a blast of lightning energy, damaging all nearby enemies.
+55 Energy Cost
+4.8 Meter Target Area
+30% Weapon Damage
+40-226 Lightning Damage
+Required Player Level: 20
+Item Level: 25
+Amber
+Blessed Whetstone
+"Sharpens even the sharpest of edges, increasing the damage that penetrates enemy armor."
+(Used in axes, spears, swords, guns and crossbows)
+Component
++18% Pierce Damage
+Increases Armor Piercing by 50%
++25% Bleeding Damage
++18 Offensive Ability
+Granted Skills
+Behead (Granted by Item)
+Attempt to behead your foe with a deadly blow capable of causing intense bleeding.
+36 Energy Cost
+3.5 Second Skill Recharge
+180 Degree Attack Arc
+5 Target Maximum
+280% Weapon Damage
+132-202 Piercing Damage
+800 Bleeding Damage over 5 Seconds
++50% Crit Damage
+Required Player Level: 20
+Item Level: 25
+Faction: Kymon's Chosen
+Faction: Order of Death's Vigil
+Blueprint: Blessed Whetstone
+Coldstone
+"In folklore, these mysterious stones that radiate cold are said to be the hearts of banished revenants."
+(Used in melee weapons, shields and caster off-hands)
+Component
+5 Cold Damage
++25% Cold Damage
++25% Frostburn Damage
+10% Physical Damage converted to Cold Damage
+Granted Skills
+Chilling Weapons (Granted by Item)
+Empower your attacks with a deathly chill.
+10 Cold Damage
++75% Cold Damage
++75% Frostburn Damage
+10% Slow target for 2 Seconds
+150 Energy Reserved
+Bonus to All Pets
+8 Cold Damage
++75% Cold Damage
++75% Frostburn Damage
+10% Slow target for 2 Seconds
+Required Player Level: 20
+Item Level: 25
+Coldstone
+Consecrated Wrappings
+"Blood-stained wrappings worn by Chthonic cultists."
+(Used in hand armor)
+Component
+3-8 Chaos Damage
++8% Attack Speed
+8% Chaos Resistance
+Required Player Level: 20
+Item Level: 25
+Enchanted Flint
+"This enchanted flint will impart a spirit of flame within any weapon it caresses."
+(Used in melee weapons, shields and caster off-hands)
+Component
+4-6 Fire Damage
++25% Fire Damage
++25% Burn Damage
+10% Physical Damage converted to Fire Damage
+Granted Skills
+Burning Weapons (Granted by Item)
+Empower your attacks with a blazing flame.
+10 Fire Damage
+15% Chance of 135 Burn Damage over 3 Seconds
++75% Fire Damage
++75% Burn Damage
+150 Energy Reserved
+Bonus to All Pets
+8 Fire Damage
+15% Chance of 135 Burn Damage over 3 Seconds
++75% Fire Damage
++75% Burn Damage
+Required Player Level: 20
+Item Level: 25
+Enchanted Flint
+Hell's Bane Ammo
+"Consecrated ammunition intended to inflict great pain upon those of impure intent."
+(Used in guns, crossbows and caster off-hands)
+Component
+1-9 Lightning Damage
++25% Lightning Damage
++10% Stun Duration
++25% Electrocute Damage
+10% Physical Damage converted to Lightning Damage
+Granted Skills
+Electrifying Weapons (Granted by Item)
+Empower your attacks with the power of lightning.
+5-15 Lightning Damage
++75% Lightning Damage
++75% Electrocute Damage
+12% Chance to Stun target for 0.8 Seconds
+150 Energy Reserved
+Bonus to All Pets
+4-12 Lightning Damage
++75% Lightning Damage
++75% Electrocute Damage
+8% Chance to Stun target for 0.8 Seconds
+Required Player Level: 20
+Item Level: 25
+Hell's Bane Ammo
+Mark of the Traveler
+"Travelers used these marks when passing through wild country, so as not to be mistaken as hunters by Mogdrogen, the beast god."
+(Used in boots)
+Component
++18 Health Regenerated per second
++8% Movement Speed
+15% Slow Resistance
+Required Player Level: 20
+Item Level: 25
+Riftstone
+"Teeming with the raw power of the void."
+(Used in melee weapons, shields and caster off-hands)
+Component
+2-8 Chaos Damage
++25% Chaos Damage
+10% Physical Damage converted to Chaos Damage
+Granted Skills
+Void Weapons (Granted by Item)
+Empower your attacks with the corrupting void.
+4-16 Chaos Damage
++75% Chaos Damage
+16% Slower Enemy Attack for 2 Seconds
+150 Energy Reserved
+Bonus to All Pets
+4-12 Chaos Damage
++75% Chaos Damage
+16% Slower Enemy Attack for 2 Seconds
+Required Player Level: 20
+Item Level: 25
+Riftstone
+Serrated Shell
+"A tough shell made all the more formidable by a series of razor sharp spines."
+(Used in shields)
+Component
+-20% Shield Recovery Time
+136 Physical Damage Retaliation
++20% to All Retaliation Damage
+Granted Skills
+Brutal Shield Slam (Granted by Item)
+Slam your enemy with your spiked shield, disabling lesser foes completely. Requires a melee weapon.
+36 Energy Cost
+3 Second Skill Recharge
+275 Degree Attack Arc
+3 Target Maximum
+300% Weapon Damage
+18% of Retaliation Damage added to Attack
+105-202 Physical Damage
+700 Internal Trauma over 5 Seconds
+Stun target for 0.5 - 2 Seconds
+Taunt target
+15% Reduced target's Damage for 3 Seconds
+Required Player Level: 20
+Item Level: 25
+Serrated Shell
+Soul Shard
+"A magical gem, used by witch hunters, rumored to trap the souls of the damned."
+(Used in rings, amulets and medals)
+Component
++12% Vitality Damage
++12% Vitality Decay
++30% Energy Absorbed from Enemy Spells
+20% Vitality Resistance
+25% Energy Leech Resistance
+Required Player Level: 20
+Item Level: 25
+Spined Carapace
+"A thick carapace lined with jagged spines."
+(Used in all armor)
+Component
++24 Armor
+55 Physical Damage Retaliation
++12% to All Retaliation Damage
+Required Player Level: 20
+Item Level: 25
+Faction: Homestead
+Blueprint: Spined Carapace
+Venom-Tipped Ammo
+"Toxins from a poisonous maw coat the tip of this ammunition."
+(Used in guns, crossbows and caster off-hands)
+Component
+4 Acid Damage
+20 Poison Damage over 5 Seconds
++25% Acid Damage
++25% Poison Damage with +10% Increased Duration
+10% Physical Damage converted to Acid Damage
+Granted Skills
+Noxious Poison Bomb (Granted by Item)
+Launch a foul bomb which explodes at the target point, coating your enemies with toxins.
+44 Energy Cost
+4 Second Duration
+2.5 Meter Radius
+15% Weapon Damage
+32 Acid Damage
+264 Poison Damage over 2 Seconds
+25% Chance to Confuse target for 2 Seconds
+12 Reduced target's Resistances for 2 Seconds
+Required Player Level: 20
+Item Level: 25
+Venom-Tipped Ammo
+Vitriolic Gallstone
+"Vitriolic stones formed in the bile of foul beasts."
+(Used in melee weapons, shields and caster off-hands)
+Component
+4 Acid Damage
+20 Poison Damage over 5 Seconds
++25% Acid Damage
++25% Poison Damage
+10% Physical Damage converted to Acid Damage
+Granted Skills
+Envenomed Weapons (Granted by Item)
+Empower your attacks with a foul poison.
+45 Poison Damage over 5 Seconds
++75% Acid Damage
++75% Poison Damage with +20% Increased Duration
+150 Energy Reserved
+Bonus to All Pets
+35 Poison Damage over 5 Seconds
++75% Acid Damage
++75% Poison Damage with +20% Increased Duration
+Required Player Level: 20
+Item Level: 25
+Vitriolic Gallstone
+Void-Touched Ammo
+"Dipped in fresh Chthonian blood."
+(Used in guns, crossbows and caster off-hands)
+Component
+2-8 Chaos Damage
++25% Chaos Damage
+10% Physical Damage converted to Chaos Damage
+Granted Skills
+Chaos Bolt (Granted by Item)
+Unleash a bolt of chaotic energies at the target.
+42 Energy Cost
+3 Projectile(s)
+1.2 Meter Radius
+12% Weapon Damage
+55-118 Chaos Damage
+Required Player Level: 20
+Item Level: 25
+Void-Touched Ammo
+Wrathstone
+"It vibrates at the slightest contact with living flesh."
+(Used in melee weapons, shields and caster off-hands)
+Component
+4-6 Aether Damage
++25% Aether Damage
+10% Physical Damage converted to Aether Damage
+Granted Skills
+Aether Weapons (Granted by Item)
+Empower your attacks with the aether itself.
+10 Aether Damage
++75% Aether Damage
+150 Energy Reserved
+84 Aether Retaliation
+Bonus to All Pets
+8 Aether Damage
++75% Aether Damage
+84 Aether Retaliation
+Required Player Level: 20
+Item Level: 25
+Wrathstone
+Aether Soul
+"A stone vibrating with energy, often left behind by Aetherial beings destroyed in the material plane."
+(Used in amulets and medals)
+Component
++10% Aether Damage
+6% Less Damage from Aetherials
+6% Less Damage from Aether Corruptions
++30 Defensive Ability
+16% Aether Resistance
+Required Player Level: 24
+Item Level: 30
+Faction: Devil's Crossing
+Blueprint: Aether Soul
+Black Tallow
+"Tallow from a candle burnt during Chthonic rituals."
+(Used in amulets and medals)
+Component
++10% Chaos Damage
+6% Less Damage from Chthonics
++30 Defensive Ability
+16% Chaos Resistance
+Required Player Level: 24
+Item Level: 30
+Faction: Kymon's Chosen
+Faction: Order of Death's Vigil
+Blueprint: Black Tallow
+Blessed Steel
+"Steel blessed by the priests of Menhir to vanquish the spreading darkness."
+(Used in all weapons, shields and caster off-hands)
+Component
+5 Elemental Damage
++18% Elemental Damage
+10% Physical Damage converted to Elemental Damage
++18 Offensive Ability
+Granted Skills
+Sacred Strike (Granted by Item)
+Strike your enemies with a devastating blow which weakens their resilience.
+32 Energy Cost
+3 Second Skill Recharge
+350% Weapon Damage
+165-254 Elemental Damage
+20 Reduced target's Resistances for 5 Seconds
+100% Physical Damage converted to Elemental Damage
+Required Player Level: 24
+Item Level: 30
+Faction: Kymon's Chosen
+Faction: Order of Death's Vigil
+Blueprint: Blessed Steel
+Leathery Hide
+"A thick hide with a rough surface, perfect for absorbing sudden shocks."
+(Used in head armor)
+Component
++6% Health
++32 Armor
+25% Reduced Stun Duration
+Required Player Level: 24
+Item Level: 30
+Faction: Homestead
+Blueprint: Leathery Hide
+Mark of Illusions
+"A symbol of power used in many inscriptions."
+(Used in rings and amulets)
+Component
++15% Elemental Damage
++12 Spirit
++32 Defensive Ability
++2.5 Energy Regenerated per second
+Required Player Level: 24
+Item Level: 30
+Radiant Gem
+"A reflective gem that shimmers with the elements."
+(Used in shields and caster off-hands)
+Component
++10% Elemental Damage
+10% Physical Damage converted to Elemental Damage
+15% Elemental Resistance
+Granted Skills
+Radiant Shield (Granted by Item)
+Imbue your shield against the elements.
+66 Energy Cost
+30 Second Skill Recharge
+12 Second Duration
+30% Fire Resistance
+30% Cold Resistance
+30% Lightning Resistance
++10% Maximum Fire Resistance
++10% Maximum Cold Resistance
++10% Maximum Lightning Resistance
+Required Player Level: 24
+Item Level: 30
+Radiant Gem
+Restless Remains
+"The remains of a tortured being denied its rightful peace."
+(Used in hand armor)
+Component
+3% of Attack Damage converted to Health
++220 Energy
++10% Casting Speed
+Required Player Level: 24
+Item Level: 30
+Faction: Rovers
+Blueprint: Restless Remains
+Rotten Heart
+"A long silenced heart shriveled with necromantic power."
+(Used in chest armor)
+Component
++2% Spirit
++2% Offensive Ability
+75 Acid Retaliation
+Required Player Level: 24
+Item Level: 30
+Faction: Devil's Crossing
+Blueprint: Rotten Heart
+Runestone
+"A mysterious rune decorates this stone."
+(Used in head armor)
+Component
++8% Damage to Aetherials
++8% Damage to Aether Corruptions
+12% Poison & Acid Resistance
+12% Aether Resistance
+12% Elemental Resistance
+Required Player Level: 24
+Item Level: 30
+Faction: Rovers
+Blueprint: Runestone
+Sanctified Bone
+"The purified bones of a paladin slain in righteous combat."
+(Used in chest and head armor)
+Component
++8% Damage to Undead
++8% Damage to Chthonics
+18% Vitality Resistance
+12% Chaos Resistance
+Required Player Level: 24
+Item Level: 30
+Faction: Homestead
+Blueprint: Sanctified Bone
+Severed Claw
+"A ruthless claw torn from the limb of a mighty beast."
+(Used in all weapons, shields and caster off-hands)
+Component
+7 Physical Damage
++25% Physical Damage
++15% Internal Trauma Damage
+Granted Skills
+Brutal Slam (Granted by Item)
+Slam your enemy with an overpowering blow.
+32 Energy Cost
+3.5 Second Skill Recharge
+330% Weapon Damage
+144-300 Physical Damage
++50% Crit Damage
+30% Slower target Movement for 3 Seconds
+Required Player Level: 24
+Item Level: 30
+Severed Claw
+Vengeful Wraith
+"A spirit of vengeance."
+(Used in rings, amulets and medals)
+Component
++12% Cold Damage
++25% Frostburn Damage with +30% Increased Duration
++36 Offensive Ability
+120 Cold Retaliation
+Required Player Level: 24
+Item Level: 30
+Faction: Rovers
+Blueprint: Vengeful Wraith
+Ballistic Plating
+"Fragments of old armor designed to withstand arrows, bolts, and bullets."
+(Used in chest armor)
+Component
++22 Defensive Ability
+10% Chance to Avoid Projectiles
++18 Armor
+Required Player Level: 27
+Item Level: 35
+Faction: The Black Legion
+Blueprint: Ballistic Plating
+Focusing Prism
+"Used by arcanists to channel their powers during particularly straining rituals."
+(Used in amulets)
+Component
++5% Crit Damage
++18 Spirit
+-10% Skill Energy Cost
+Required Player Level: 27
+Item Level: 35
+Faction: Devil's Crossing
+Blueprint: Focusing Prism
+Vicious Jawbone
+"The jaw of a beast built to snap bones as if they were sticks."
+(Used in amulets and medals)
+Component
++15% Physical Damage
++20% Internal Trauma Damage
++12 Cunning
++5% Attack Speed
+Required Player Level: 27
+Item Level: 35
+Bladed Plating
+"Armor plated fitted with rows of deadly blades. A favorite amongst brigands and ruthless tyrants."
+(Used in all armor)
+Component
++120 Health
++24 Offensive Ability
++30% to All Retaliation Damage
+Required Player Level: 75
+Item Level: 75
+Blueprint: Bladed Plating
+Ashes of Malmouth
+Enchanted Earth
+"The earth was infused with life essence to stimulate growth and health."
+(Used in all armor)
+Component
++4% Health
++24 Health Regenerated per second
+Increases Armor by 4%
+Required Player Level: 75
+Item Level: 75
+Blueprint: Enchanted Earth
+Ashes of Malmouth
+Spellscorched Plating
+"Remnants of armor that survived a deadly arcane attack; the magical energies appear to be trapped within the metal."
+(Used in all armor)
+Component
++100 Health
+20% Pierce Resistance
+15% Elemental Resistance
+Required Player Level: 75
+Item Level: 75
+Blueprint: Spellscorched Plating
+Ashes of Malmouth
+Ugdenbog Leather
+"Leather from the beasts inhabiting the region known as Ugdenbog. The bog's deadly properties create some of the toughests beasts ever to roam Cairn."
+(Used in all armor)
+Component
++30 Defensive Ability
+20% Poison & Acid Resistance
+20% Bleeding Resistance
+Required Player Level: 75
+Item Level: 75
+Blueprint: Ugdenbog Leather
+Ashes of Malmouth
+Blazing Ruby
+"A brilliant flame dances within the facets of this gem."
+(Used in amulets and medals)
+Magic Component
++160 Health
++4% Health
+15% Slow Resistance
+160 Fire Retaliation
++16% to All Retaliation Damage
+Required Player Level: 75
+Item Level: 75
+Blueprint: Blazing Ruby
+Ashes of Malmouth
+Bloodied Crystal
+"The once pearl-white crystal has absorbed unspeakable bloodshed."
+(Used in rings, amulets and medals)
+Magic Component
++40 Defensive Ability
++75 Armor
+15% Bleeding Resistance
+Required Player Level: 75
+Item Level: 75
+Blueprint: Bloodied Crystal
+Ashes of Malmouth
+Runebound Topaz
+"A rune emblazoned upon the side of this gem empowers it with protective properties."
+(Used in rings, amulets and medals)
+Magic Component
++160 Health
++52 Defensive Ability
+10% Reduced Stun Duration
++8% Shield Damage Blocked
+Required Player Level: 75
+Item Level: 75
+Blueprint: Runebound Topaz
+Ashes of Malmouth
+Seal of Blades
+"The seal, devised by the legendary nightblade Belgothian, amplified the assassin's already deadly attacks and stimulated bleeding in the target."
+(Used in all weapons, shields and caster off-hands)
+Magic Component
+10 Piercing Damage
+5% of Attack Damage converted to Health
+30 Bleeding Damage over 3 Seconds
++50% Pierce Damage
++50% Bleeding Damage
+Granted Skills
+Whirling Blades (Granted by Item)
+At your command, whirling blades spin around you, shredding all foes who come too near.
+5 Meter Target Area
+155 Piercing Damage
+145 Bleeding Damage per Second
+15% Pierce Resistance
+Increases Armor by 8%
+Required Player Level: 75
+Item Level: 75
+Blueprint: Seal of Blades
+Ashes of Malmouth
+Seal of Blight
+"The seal, infused with the power of the Three, evokes every disease the victim ever suffered in the past."
+(Used in all weapons, shields and caster off-hands)
+Magic Component
+9-12 Vitality Damage
++6% Crit Damage
++50% Acid Damage
++50% Vitality Damage
++50% Poison Damage
++50% Vitality Decay
+10% Physical Damage converted to Vitality Damage
+Granted Skills
+Acid Purge (Granted by Item)
+Unleash a continuous spray of vile acid from your hand to melt your foes, so long as you maintain focus. This is a channeled skill and must be held down to maintain. At 100% Cast Speed, Acid Purge deals damage and drains Energy every 0.3s.
+137.5 Energy Cost per Second
+0.3 Second Skill Recharge
+36% Weapon Damage
+232 Acid Damage
+232 Vitality Damage
+6% of Attack Damage converted to Health
+1300 Poison Damage over 5 Seconds
+Required Player Level: 75
+Item Level: 75
+Blueprint: Seal of Blight
+Ashes of Malmouth
+Seal of Corruption
+"Though the creator of this seal lies forgotten to history, its ability to tap into the Aether cannot be overstated."
+(Used in all weapons, shields and caster off-hands)
+Magic Component
+11 Aether Damage
++50% Lightning Damage
++50% Aether Damage
++50% Electrocute Damage
+10% Physical Damage converted to Aether Damage
++44 Offensive Ability
+Granted Skills
+Aether Corruption (Granted by Item)
+Corrupting Aether energy rips through your foes, rapidly spreading corruption among your enemies.
+66 Energy Cost
+5 Second Duration
+160-280 Lightning Damage
+255 Aether Damage
+-25% Attack Speed
+-25% Casting Speed
+Required Player Level: 75
+Item Level: 75
+Blueprint: Seal of Corruption
+Ashes of Malmouth
+Seal of Destruction
+"A seal created in the honor of Ulzuin and the blazing ends promised upon those who scorn the celestial being."
+(Used in all weapons, shields and caster off-hands)
+Magic Component
+8-13 Fire Damage
++6% Crit Damage
++50% Fire Damage
++50% Lightning Damage
++50% Burn Damage
++50% Electrocute Damage
+10% Physical Damage converted to Fire Damage
+Granted Skills
+Stormfire (Granted by Item)
+Unleash a blast of electrified flame that shatters upon contact to wreak havoc upon the battlefield.
+60 Energy Cost
+4 - 5 Fragments
+2.5 Meter Radius
+40% Weapon Damage
+152-222 Fire Damage
+136-300 Lightning Damage
+390 Burn Damage over 3 Seconds
+Required Player Level: 75
+Item Level: 75
+Blueprint: Seal of Destruction
+Ashes of Malmouth
+Seal of Might
+"The seal, emblazoned by Ulgard the Mighty, focused the creator's considerable arcane power into unmatched physical might."
+(Used in all weapons, shields and caster off-hands)
+Magic Component
+13 Physical Damage
++50% Physical Damage
++50% Internal Trauma Damage
++50% Bleeding Damage
+25% Aether Damage converted to Physical Damage
++160 Health
+Granted Skills
+Presence of Might (Granted by Item)
+You shrug off the blows of your opponents with ease.
+300 Energy Reserved
+12% Pierce Resistance
+12% Vitality Resistance
+12% Bleeding Resistance
+Increases Armor by 8%
+Bonus to All Pets
+12% Pierce Resistance
+12% Vitality Resistance
+12% Bleeding Resistance
+Increases Armor by 8%
+Required Player Level: 75
+Item Level: 75
+Blueprint: Seal of Might
+Ashes of Malmouth
+Seal of Resonance
+"Crafted to the precise specifications of the Luminari, this seal empowers the magical properties of a weapon even when wielded by those not versed in the arcane."
+(Used in all weapons, shields and caster off-hands)
+Magic Component
+10 Elemental Damage
++50% Aether Damage
++50% Elemental Damage
+10% Physical Damage converted to Elemental Damage
++160 Health
+Granted Skills
+Arcane Resonance (Granted by Item)
+Your mastery over the arcane shields you from debilitating effects.
+300 Energy Reserved
+15% Reduced Stun Duration
+15% Reduced Freeze Duration
+15% Reduced Petrify Duration
+15% Reduced Entrapment Duration
+Bonus to All Pets
+15% Reduced Stun Duration
+15% Reduced Freeze Duration
+15% Reduced Petrify Duration
+15% Reduced Entrapment Duration
+Required Player Level: 75
+Item Level: 75
+Blueprint: Seal of Resonance
+Ashes of Malmouth
+Seal of Shadows
+"A favorite of the nightblade Nidalla, the seal infuses weapons with biting acid."
+(Used in all weapons, shields and caster off-hands)
+Magic Component
+8-13 Acid Damage
++50% Pierce Damage
++50% Acid Damage
++50% Poison Damage
+10% Physical Damage converted to Acid Damage
++4% Casting Speed
+Granted Skills
+Biting Blades (Granted by Item)
+Hurl a blade coated in caustic acid that spins outward away from your position, piercing through all enemies along the way before returning to you.
+45 Energy Cost
+100% Chance to pass through Enemies
+50% Weapon Damage
+244 Piercing Damage
+244 Acid Damage
+200 Poison Damage over 2 Seconds
+Required Player Level: 75
+Item Level: 75
+Blueprint: Seal of Shadows
+Ashes of Malmouth
+Seal of Skies
+"The seal, first emblazoned by the arcane master Trozan, calls forth power from the celestial skies themselves."
+(Used in all weapons, shields and caster off-hands)
+Magic Component
+3-18 Lightning Damage
++50% Cold Damage
++50% Lightning Damage
++50% Frostburn Damage
++50% Electrocute Damage
+10% Physical Damage converted to Lightning Damage
++4% Casting Speed
+Granted Skills
+Chain Lightning (Granted by Item)
+Lightning crackles at your fingertips and cascades off of your foes to demolish their ranks.
+60 Energy Cost
+Affects up to 3 targets
+70% Weapon Damage
+235 Cold Damage
+176-425 Lightning Damage
+300 Electrocute Damage over 2 Seconds
+Required Player Level: 75
+Item Level: 75
+Blueprint: Seal of Skies
+Ashes of Malmouth
+Seal of the Night
+"Devised by the nightblade Amarasta in preparation for a particularly elusive target."
+(Used in all weapons, shields and caster off-hands)
+Magic Component
+11 Cold Damage
++50% Pierce Damage
++50% Cold Damage
++50% Frostburn Damage
+10% Physical Damage converted to Cold Damage
++44 Offensive Ability
+Granted Skills
+Chillspikes (Granted by Item)
+Hurl conjured spikes of pure ice to pierce your foes.
+60 Energy Cost
+5 Projectile(s)
+55% Chance to pass through Enemies
+12% Weapon Damage
+122 Piercing Damage
+90-122 Cold Damage
+525 Frostburn Damage over 3 Seconds
+Required Player Level: 75
+Item Level: 75
+Blueprint: Seal of the Night
+Ashes of Malmouth
+Seal of the Void
+"The creation of this seal required unspeakable acts to be committed. Those found using it are looked upon as power hungry and corrupt."
+(Used in all weapons, shields and caster off-hands)
+Magic Component
+2-19 Chaos Damage
++50% Fire Damage
++50% Chaos Damage
++50% Burn Damage
+10% Physical Damage converted to Chaos Damage
++4% Attack Speed
+Granted Skills
+Burning Void (Granted by Item)
+By enveloping your weapon within the destructive forces of the Void, you can unleash its power upon unsuspecting foes with a calculated blow. When used with a ranged weapon, the projectile will explode upon contact. Can activate with all default weapon attacks.
+16% Chance to be Used
+3 Meter Radius
+150 Degree Attack Arc
+3 Target Maximum
+140% Weapon Damage
+122 Fire Damage
+85-155 Chaos Damage
+Knockdown target for 1 Second
+Required Player Level: 75
+Item Level: 75
+Blueprint: Seal of the Void
+Ashes of Malmouth
+Tainted Heart
+"A still beating heart throbbing with Aether corruption."
+(Used in amulets and medals)
+Magic Component
++5% Crit Damage
++15 Offensive Ability
+12% Vitality Resistance
+12% Aether Resistance
+Required Player Level: 75
+Item Level: 75
+Blueprint: Tainted Heart
+Ashes of Malmouth
+Ancient Armor Plate
+"Plating from a once mighty set of armor."
+(Used in chest and leg armor)
+Rare Component
++18 Physique
++35 Armor
+Increases Armor by 8%
+Increases Armor Absorption by 8%
+Required Player Level: 15
+Item Level: 16
+Attuned Lodestone
+"These rare and potent stones still echo with the thunder of the storm that birthed them."
+(Used in amulets and medals)
+Rare Component
++5% Crit Damage
++20% Lightning Damage
++20% Electrocute Damage
++32 Offensive Ability
+1-260 Lightning Retaliation
+Granted Skills
+Static Charge (20% Chance when Hit)
+A surge of electricity discharges from you, damaging nearby enemies.
+2 Second Skill Recharge
+3 Meter Target Area
+15% Weapon Damage
+122-240 Lightning Damage
+Stun target for 1 Second
+10% Reduced target's Damage for 2 Seconds
+Required Player Level: 15
+Item Level: 16
+Devil-Touched Ammo
+"Infused with sacrilegious flame."
+(Used in guns, crossbows and caster off-hands)
+Rare Component
+5-7 Fire Damage
+6% of Attack Damage converted to Health
++30% Fire Damage
++30% Chaos Damage
++30% Burn Damage
+10% Physical Damage converted to Fire Damage
+Granted Skills
+Demon's Breath (Granted by Item)
+Launch a blastwave of unearthly flame at your enemies.
+56 Energy Cost
+3 Second Skill Recharge
+15 Meter Range
+150% Weapon Damage
+144-172 Fire Damage
+185-236 Chaos Damage
+8% of Attack Damage converted to Health
+Required Player Level: 15
+Item Level: 16
+Mark of Dreeg
+"An inscription of a lidless eye dripping tears of vitriolic blood."
+(Used in all weapons, shields and caster off-hands)
+Rare Component
+50 Poison Damage over 5 Seconds
++30% Acid Damage
++30% Poison Damage
+10 Reduced target's Resistances for 5 Seconds
+10% Physical Damage converted to Acid Damage
++6% Light Radius
+Granted Skills
+Dreeg's Infinite Gaze (Granted by Item)
+Unleash the infinite gaze of Dreeg around you.
+75 Energy Cost
+2.5 Second Skill Recharge
+10 Projectile(s)
+0.5 Meter Radius
+35% Weapon Damage
+62 Acid Damage
+450 Poison Damage over 3 Seconds
+Required Player Level: 15
+Item Level: 16
+Unholy Inscription
+"Words of power from an ancient language that cannot be spoken by mortal men."
+(Used in hand armor)
+Rare Component
+5% of Attack Damage converted to Health
++15 Offensive Ability
+10% Vitality Resistance
+15% Bleeding Resistance
+Required Player Level: 15
+Item Level: 16
+Spellwoven Threads
+"Strips of fabric cut from the death shroud of a once powerful magi."
+(Used in hand armor)
+Rare Component
++15 Spirit
++34 Offensive Ability
++8% Casting Speed
+Required Player Level: 20
+Item Level: 16
+Haunted Steel
+"It fills your mind with the maddening whispers of trapped spirits."
+(Used in all weapons, shields and caster off-hands)
+Rare Component
+8 Vitality Damage
+8% of Attack Damage converted to Health
++25% Vitality Damage
++25% Vitality Decay
+10% Physical Damage converted to Vitality Damage
+Granted Skills
+Bloodthirster (Granted by Item)
+Empower your attacks with vampiric energy.
+58 Energy Cost
+20 Second Skill Recharge
+8 Second Duration
+24% of Attack Damage converted to Health
+366 Bleeding Damage over 3 Seconds
++90% Bleeding Damage
++90% Vitality Decay
+20% Bleeding Resistance
+Required Player Level: 24
+Item Level: 30
+Faction: Kymon's Chosen
+Faction: Order of Death's Vigil
+Blueprint: Haunted Steel
+Kilrian's Shattered Soul
+"The tainted soul of Kilrian, terror of the Arkovian Undercity."
+(Used in chest armor)
+Rare Component
++40% Fire Damage
++40% Vitality Damage
++40% Burn Damage
++40% Vitality Decay
++5% Attack Speed
+20% Vitality Resistance
+Granted Skills
+Kilrian's Flame (10% Chance when Hit)
+A dark flame engulfs your flesh, incinerating any that dare come near and draining their vitality.
+12 Second Skill Recharge
+6 Second Duration
+3 Meter Target Area
+86 Fire Damage
+122 Vitality Damage
+33% of Attack Damage converted to Health
+310 Vitality Decay Damage over 2 Seconds
+Required Player Level: 24
+Item Level: 30
+MI
+Arcane Lens
+"A locus for the arcane flows of the universe."
+(Used in amulets)
+Rare Component
+5-10 Elemental Damage
++25% Elemental Damage
++3% Spirit
++40 Defensive Ability
+-6% Skill Energy Cost
+Required Player Level: 27
+Item Level: 35
+Bindings of Bysmiel
+"Spellwoven bindings used by the coven of Bysmiel to strengthen control over summoned beings."
+(Used in chest armor)
+Rare Component
++25 Offensive Ability
++25 Defensive Ability
++1 Energy Regenerated per second
+Granted Skills
+Bysmiel's Binding (Granted by Item)
+Bind your minions to your will. (Passive bonus)
+Bonus to All Pets
++20% to All Damage
++10% Health
+Required Player Level: 27
+Item Level: 35
+Bloody Whetstone
+"Soaked in the blood of the fallen, this accursed whetstone gives sharpened edges a hunger for blood."
+(Used in axes, spears, swords, guns and crossbows)
+Rare Component
+30 Bleeding Damage over 3 Seconds
++5% Crit Damage
++30% Bleeding Damage with +30% Increased Duration
+Granted Skills
+Decapitate (Granted by Item)
+Attempt to decapitate your foe with a deadly attack capable of causing intense bleeding. When used with a melee weapon, the attack strikes multiple nearby targets.
+42 Energy Cost
+3.5 Second Skill Recharge
+180 Degree Attack Arc
+5 Target Maximum
+300% Weapon Damage
+164-236 Physical Damage
+1220 Bleeding Damage over 5 Seconds
++50% Crit Damage
+Required Player Level: 27
+Item Level: 35
+Faction: Homestead
+Blueprint: Bloody Whetstone
+Chains of Oleron
+"The broken chains once used to contain the fury of the deity Oleron."
+(Used in chest armor)
+Rare Component
++30 Offensive Ability
++2% Offensive Ability
++6% Movement Speed
+24% Reduced Entrapment Duration
+Required Player Level: 27
+Item Level: 35
+Mark of Mogdrogen
+"A secret mark worn by druidic worshipers of Mogdrogen, the beast god."
+(Used in boots)
+Rare Component
++5% Health
++15 Health Regenerated per second
+Increases Health Regeneration by 10%
++10% Movement Speed
+Required Player Level: 27
+Item Level: 35
+Faction: Rovers
+Blueprint: Mark of Mogdrogen
+Mark of the Myrmidon
+"A powerful symbol bestowed upon the most fearless battle lords."
+(Used in shields)
+Rare Component
++120 Health
++25 Defensive Ability
+-15% Shield Recovery Time
+180 Physical Damage Retaliation
+Granted Skills
+Blade Barricade (Granted by Item)
+Imbue your armor against piercing attacks, retaliating against your attackers in kind.
+52 Energy Cost
+12 Second Skill Recharge
+4 Second Duration
+-20% Shield Recovery Time
+30% Pierce Resistance
+Increases Armor by 20%
+424 Physical Damage Retaliation
+Required Player Level: 27
+Item Level: 35
+Silvercore Bolts
+"Purge evil with the faintest scratch."
+(Used in guns, crossbows and caster off-hands)
+Rare Component
+8 Piercing Damage
++35% to All Damage
+Increases Armor Piercing by 100%
++15% Damage to Chthonics
++35 Offensive Ability
+Granted Skills
+Silver Spread (Granted by Item)
+Launch a burst of silver-coated projectiles intended to kill Chthonic beings.
+54 Energy Cost
+3 Second Skill Recharge
+5 Projectile(s)
+90% Weapon Damage
+175-222 Piercing Damage
++50% Damage to Chthonics
+Required Player Level: 27
+Item Level: 35
+Faction: Devil's Crossing
+Blueprint: Silvercore Bolts
+Oleron's Blood
+"Sacred blood of the war god."
+(Used in all weapons, shields and caster off-hands)
+Rare Component
++25% Physical Damage
++40% Internal Trauma Damage
++24 Offensive Ability
++2% Total Speed
+Granted Skills
+Oleron's Might (Granted by Item)
+Strikes with your weapon, inflicting grievous wounds and crippling the target.
+42 Energy Cost
+3.5 Second Skill Recharge
+355% Weapon Damage
+174-346 Physical Damage
+1220 Internal Trauma over 5 Seconds
++50% Crit Damage
+20% Reduced target's Damage for 5 Seconds
+Required Player Level: 30
+Item Level: 35
+Faction: The Black Legion
+Blueprint: Oleron's Blood
+Dread Skull
+"An assassin's symbol granted upon the acceptance of a particularly dangerous bounty."
+(Used in amulets and medals)
+Rare Component
++24% Pierce Damage
++30% Bleeding Damage with +30% Increased Duration
++5% Total Speed
+Required Player Level: 32
+Item Level: 40
+Hallowed Ground
+"Dirt from the base of the standing stones of Menhir."
+(Used in chest armor)
+Rare Component
++25 Defensive Ability
++2% Defensive Ability
++30 Health Regenerated per second
+12% Elemental Resistance
+Required Player Level: 32
+Item Level: 40
+Arcane Spark
+"A spark of the purest arcane energy."
+(Used in amulets and medals)
+Rare Component
+45 Energy Leech over 3 Seconds
++50 Offensive Ability
+Increases Energy Regeneration by 20%
+30% Skill Disruption Protection
+Required Player Level: 35
+Item Level: 45
+Faction: The Black Legion
+Blueprint: Arcane Spark
+Symbol of Solael
+"A secret symbol used by followers of Solael to identify themselves to one another."
+(Used in all weapons, shields and caster off-hands)
+Rare Component
+2-12 Chaos Damage
++35% Chaos Damage
+10% Physical Damage converted to Chaos Damage
++33% Energy Absorbed from Enemy Spells
+Granted Skills
+Solael's Flame (Granted by Item)
+Coat your target with the dark flame of Solael.
+60 Energy Cost
+8 Second Duration
+4 Meter Radius
+84-155 Chaos Damage
+-10% Vitality Resistance
+-10% Chaos Resistance
+Required Player Level: 35
+Item Level: 45
+Prismatic Diamond
+"The core shimmers with untold power."
+(Used in head armor)
+Rare Component
++4% Health
++20% Energy Absorbed from Enemy Spells
+15% Vitality Resistance
+Granted Skills
+Prismatic Rage (Granted by Item)
+The diamond's power can be tapped in dire situations, granting access to its true potential and untold cosmic forces.
+Activates when Health drops below 50%
+40 Second Skill Recharge
+8 Second Duration
+Total Damage Modified by 10%
+130 Damage Absorption
++10% Total Speed
+Required Player Level: 55
+Item Level: 60
+Blueprint: Prismatic Diamond
+Shard of Beronath
+"But a piece of the legendary spear that felled Beronath, yet still retains great power."
+(Used in all weapons, shields and caster off-hands)
+Rare Component
+8 Elemental Damage
++18% to All Damage
+10% Physical Damage converted to Elemental Damage
++32 Offensive Ability
+Granted Skills
+Beronath's Fury (Granted by Item)
+Strike out at your enemies with the fury of the great beast Beronath. When used as your default weapon attack, Beronath's Fury increases the intensity of your attacks with every strike. Building up charges increases the potency of the bonuses.
+6 Energy Cost
+7 Charge Levels: 30%, 50%, 65%, 80%, 90%, 100%, 110%
+1.5 Second Charge Level Duration (Hidden)
+124% Weapon Damage
+12 Physical Damage
+33 Elemental Damage
++60% to All Damage
++60% Elemental Damage
+Required Player Level: 55
+Item Level: 60
+Blueprint: Shard of Beronath
+Eldritch Mirror
+"The surface of the mirror shifts with a spectrum of colors, peering into it induces a painful headache, as if staring into another realm of reality."
+(Used in chest and head armor)
+Rare Component
++5% Attack Speed
++5% Casting Speed
+10% Vitality Resistance
+Granted Skills
+Eldritch Binding (Granted by Item)
+Bind your minions to your will. (Passive bonus)
+Bonus to All Pets
++10% Total Speed
+Required Player Level: 75
+Item Level: 75
+Blueprint: Eldritch Mirror
+Ashes of Malmouth
+Living Armor
+"The armor plate is more flesh than metal now as it writhes within your hands, clearly by the manipulation of Aetherials."
+(Used in shoulder, chest and head armor)
+Rare Component
++35 Offensive Ability
+8% Chaos Resistance
+10% Elemental Resistance
+Increases Armor Absorption by 12%
+Required Player Level: 75
+Item Level: 75
+Blueprint: Living Armor
+Ashes of Malmouth
+Sacred Plating
+"Plating from a once mighty set of armor, rumored to be blessed by Empyrion himself."
+(Used in shoulder, chest and head armor)
+Rare Component
++210 Health
+14% Vitality Resistance
+18% Aether Resistance
+Increases Armor Absorption by 12%
+Required Player Level: 75
+Item Level: 75
+Blueprint: Sacred Plating
+Ashes of Malmouth
+Seal of Ancestry
+"The arcane seal evokes memories of your ancestors, even ones whom you never could have met in life."
+(Used in amulets)
+Rare Component
++5% Health
++1.5 Energy Regenerated per second
+Increases Energy Regeneration by 10%
+20% Vitality Resistance
+Granted Skills
+Ancestral Ward (Granted by Item)
+The power within the seal shields you from the powers beyond.
+100% Chance of Activating
+16 Second Skill Recharge
+9000 Damage Absorption
+Protects Against:
+     Aether
+     Chaos
+Required Player Level: 75
+Item Level: 75
+Blueprint: Seal of Ancestry
+Ashes of Malmouth
+Seal of Annihilation
+"The arcane seal evokes feelings of violence and carnage at the slightest touch. It hungers for death."
+(Used in amulets)
+Rare Component
++20 Spirit
++5% Attack Speed
++5% Casting Speed
+-10% Skill Energy Cost
+Granted Skills
+Annihilation (15% Chance on Critical Attack)
+The power within the seal annihilates your foe.
+1 Second Skill Recharge
+5 Second Duration
+20% Reduction to Enemy's Health
+-55 Offensive Ability
+-55 Defensive Ability
+Increases Health Regeneration by -50%
+Required Player Level: 75
+Item Level: 75
+Blueprint: Seal of Annihilation
+Ashes of Malmouth
+Titan Plating
+"An incredibly thick armor plating. The full set must have weighed more than any normal man could ever bear and still be able to move."
+(Used in chest and head armor)
+Rare Component
++4% Physique
+24% Pierce Resistance
+33% Reflected Damage Reduction
+Increases Armor by 12%
+Required Player Level: 75
+Item Level: 75
+Blueprint: Titan Plating
+Ashes of Malmouth

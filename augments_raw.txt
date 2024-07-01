@@ -1,0 +1,4463 @@
+Emblem of Focused Rage
+"A common symbol of power used by the Witch God cults."
+(Applied to Medals)
+Magic Augment
+Granted Skills
+Charge (Granted by Item)
+Charge valiantly to strike a target foe. Requires a melee weapon. When used with a shield, the shield's damage is added.
+33 Energy Cost
+3.5 Second Skill Recharge
+200% Weapon Damage
+Stun target for 1.5 Seconds
++250% Movement Speed
+Required Player Level: 1
+Item Level: 1
+Faction: Cult of Dreeg
+Faction: Cult of Dreeg
+Forgotten Gods
+Emblem of the Agile Huntress
+"A common symbol of power used by the Witch God cults."
+(Applied to Medals)
+Magic Augment
+Granted Skills
+Disengage (Granted by Item)
+Quickly disengage from combat by leaping backwards away from your foes, leaving a blinding flash.
+33 Energy Cost
+4 Second Skill Recharge
+5 Meter Target Area
+15 Meter Range
+Confuse target for 2.5 Seconds
+10% Reduced target's Damage for 5 Seconds
+Required Player Level: 1
+Item Level: 1
+Faction: Cult of Solael
+Faction: Cult of Solael
+Forgotten Gods
+Emblem of the Charging Bull
+"A common symbol of power used by the Witch God cults."
+(Applied to Medals)
+Magic Augment
+Granted Skills
+Rush (Granted by Item)
+Letting nothing stand in your way, you rush through your enemies towards a nearby target destination, smashing anyone that stands in your way. When used with a shield, the shield's damage is added.
+33 Energy Cost
+4 Second Skill Recharge
+2 Meter Target Area
+13 Meter Range
+120% Weapon Damage
+Stun target for 0.5 Seconds
++300% Movement Speed
+Required Player Level: 1
+Item Level: 1
+Faction: Cult of Solael
+Faction: Cult of Solael
+Forgotten Gods
+Emblem of the Leaping Mantis
+"A common symbol of power used by the Witch God cults."
+(Applied to Medals)
+Magic Augment
+Granted Skills
+Leap (Granted by Item)
+Leap through the air to land towards the target point, sending a shockwave through the ground upon landing.
+33 Energy Cost
+5 Second Skill Recharge
+4 Meter Target Area
+16 Meter Range
+80% Weapon Damage
+Stun target for 0.5 Seconds
+Required Player Level: 1
+Item Level: 1
+Faction: Cult of Bysmiel
+Faction: Cult of Bysmiel
+Forgotten Gods
+Emblem of the Riftstalker
+"A common symbol of power used by the Witch God cults."
+(Applied to Medals)
+Magic Augment
+Granted Skills
+Rift Tear (Granted by Item)
+Tear through reality to instantly transport yourself towards a nearby target location.
+55 Energy Cost
+5 Second Skill Recharge
+13 Meter Range
+Required Player Level: 1
+Item Level: 1
+Faction: Cult of Dreeg
+Faction: Cult of Dreeg
+Forgotten Gods
+Emblem of the Shadowy Assassin
+"A common symbol of power used by the Witch God cults."
+(Applied to Medals)
+Magic Augment
+Granted Skills
+Vanish (Granted by Item)
+In an instant, you vanish into the shadows, reappearing to strike a target foe. Requires a melee weapon.
+33 Energy Cost
+3.5 Second Skill Recharge
+200% Weapon Damage
++250% Movement Speed
+Required Player Level: 1
+Item Level: 1
+Faction: Cult of Bysmiel
+Faction: Cult of Bysmiel
+Forgotten Gods
+Aether Dust
+"Powder derived from the remains of an Aetherial exposed to concentrated doses of salt."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Magic Augment
+8 Aether Damage
++25% Aether Damage
++5% Damage to Aetherials
++5% Damage to Aether Corruptions
+Required Player Level: 40
+Item Level: 40
+Faction: The Black Legion
+Faction: The Black Legion
+Arkovian Bonemeal
+"Crushed bones from the cursed Arkovians, made safe to handle by Rover elders."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Magic Augment
+8 Vitality Damage
++25% Vitality Damage
++8% Damage to Undead
+Required Player Level: 40
+Item Level: 40
+Faction: Rovers
+Faction: Rovers
+Arkovian Rose Powder
+"Powder derived from a vibrant red flower known to grow only high up in the peaks of Old Arkovia."
+(Applied to rings and amulets)
+Magic Augment
++18% Elemental Damage
++1 Energy Regenerated per second
+10% Elemental Resistance
+Required Player Level: 40
+Item Level: 40
+Faction: Rovers
+Faction: Rovers
+Beast Tamer's Powder
+"A calming agent used by Homestead farmers to soothe wild animals into submission."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Magic Augment
+Bonus to All Pets
++12% to All Damage
++4% Defensive Ability
+Required Player Level: 40
+Item Level: 40
+Faction: Homestead
+Faction: Homestead
+Binding Dust
+"Dust used by the Order to bind undead beings to their will."
+(Applied to rings and amulets)
+Magic Augment
+Bonus to All Pets
++8% Health
+15% Vitality Resistance
+Required Player Level: 40
+Item Level: 40
+Faction: Order of Death's Vigil
+Faction: Order of Death's Vigil
+Blacksteel Powder
+"Secret mix of iron and various minerals known only to the Black Legion."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Magic Augment
++25% Physical Damage
++25% Fire Damage
++18 Offensive Ability
+Required Player Level: 40
+Item Level: 40
+Faction: The Black Legion
+Faction: The Black Legion
+Blessed Ashes
+"Ashes from the remains of a fallen member of Kymon's Chosen."
+(Applied to rings and amulets)
+Magic Augment
++14 Defensive Ability
+15% Fire Resistance
+15% Lightning Resistance
+Required Player Level: 40
+Item Level: 40
+Faction: Kymon's Chosen
+Faction: Kymon's Chosen
+Boneback Spine
+"Coarse powder derived from the spines of Boneback rats."
+(Applied to rings and amulets)
+Magic Augment
++25% Pierce Damage
++25% Bleeding Damage
++20 Offensive Ability
+Required Player Level: 40
+Item Level: 40
+Faction: Devil's Crossing
+Faction: Devil's Crossing
+Chillheart Powder
+"Powder derived from the dead. It appears to readily sap heat from the air around it."
+(Applied to rings and amulets)
+Magic Augment
++35% Frostburn Damage
+15% Cold Resistance
+10% Vitality Resistance
+Required Player Level: 40
+Item Level: 40
+Faction: Order of Death's Vigil
+Faction: Order of Death's Vigil
+Conjurer's Powder
+"Powder used by Rovers in various rituals and meditation sessions. Surprisingly effective during summoning rituals."
+(Applied to rings and amulets)
+Magic Augment
++20% Elemental Damage
++3% Health
+Bonus to All Pets
++12% to All Damage
+Required Player Level: 40
+Item Level: 40
+Faction: Rovers
+Faction: Rovers
+Consecrated Silver
+"Silver consecrated in the divine flame to combat the wretched Chthonians."
+(Applied to rings and amulets)
+Magic Augment
++25% Physical Damage
++5% Damage to Chthonics
+12% Chaos Resistance
+Required Player Level: 40
+Item Level: 40
+Faction: Kymon's Chosen
+Faction: Kymon's Chosen
+Corpsefiend Tentacle
+"The powder continues to shift within the pouch, as if it were still alive."
+(Applied to rings and amulets)
+Magic Augment
++25% Vitality Damage
++25% Aether Damage
+10% Vitality Resistance
+Required Player Level: 40
+Item Level: 40
+Faction: Devil's Crossing
+Faction: Devil's Crossing
+Dermapteran Chitin
+"Powder derived from Dermapteran armor plates, after they go through an extensive acid treatment."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Magic Augment
+8% Pierce Resistance
+10% Reduced Stun Duration
+Increases Armor by 4%
+Required Player Level: 40
+Item Level: 40
+Faction: Homestead
+Faction: Homestead
+Divine Flame
+"Powder used by Kymon's Chosen during ceremonies. When thrown upon a brazier, it erupts in sparking embers. "
+(Applied to rings and amulets)
+Magic Augment
++25% Fire Damage
++25% Lightning Damage
+10% Elemental Resistance
+Required Player Level: 40
+Item Level: 40
+Faction: Kymon's Chosen
+Faction: Kymon's Chosen
+Firebloom Powder
+"Powder derived from a flower hot to the touch, often found at the base of volcanoes."
+(Applied to rings and amulets)
+Magic Augment
++35% Burn Damage
++20 Offensive Ability
++15 Health Regenerated per second
+Required Player Level: 40
+Item Level: 40
+Faction: Kymon's Chosen
+Faction: Kymon's Chosen
+Gazer Eye
+"Powder derived from the crushed eyes of Aetherial Gazers."
+(Applied to rings and amulets)
+Magic Augment
++25% Lightning Damage
++25% Aether Damage
+10% Aether Resistance
+Required Player Level: 40
+Item Level: 40
+Faction: Devil's Crossing
+Faction: Devil's Crossing
+Manticore Venom
+"Powerful toxin extracted from Manticores that burns the skin on contact."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Magic Augment
+40 Poison Damage over 5 Seconds
++25% Poison Damage
++5% Damage to Chthonics
+Required Player Level: 40
+Item Level: 40
+Faction: The Black Legion
+Faction: The Black Legion
+Mortal Coil
+"Essence of restless spirits, condensed into physical form by forbidden rituals."
+(Applied to rings and amulets)
+Magic Augment
++25% Cold Damage
++25% Frostburn Damage
++150 Health
+Required Player Level: 40
+Item Level: 40
+Faction: Order of Death's Vigil
+Faction: Order of Death's Vigil
+Necrotic Flesh
+"Powder derived from the flesh of the long-deceased, used to power necromantic rituals."
+(Applied to rings and amulets)
+Magic Augment
++25% Vitality Damage
++25% Vitality Decay
+15% Bleeding Resistance
+Required Player Level: 40
+Item Level: 40
+Faction: Order of Death's Vigil
+Faction: Order of Death's Vigil
+Potent Aether Dust
+"Powder derived from the remains of an Aetherial exposed to concentrated doses of salt."
+(Applied to all two-handed weapons)
+Magic Augment
+18 Aether Damage
++60% Aether Damage
++10% Damage to Aetherials
++10% Damage to Aether Corruptions
+Required Player Level: 40
+Item Level: 40
+Faction: The Black Legion
+Faction: The Black Legion
+Potent Arkovian Bonemeal
+"Crushed bones from the cursed Arkovians, made safe to handle by Rover elders."
+(Applied to all two-handed weapons)
+Magic Augment
+18 Vitality Damage
++60% Vitality Damage
++16% Damage to Undead
+Required Player Level: 40
+Item Level: 40
+Faction: Rovers
+Faction: Rovers
+Potent Beast Tamer's Powder
+"A calming agent used by Homestead farmers to soothe wild animals into submission."
+(Applied to all two-handed weapons)
+Magic Augment
+Bonus to All Pets
++28% to All Damage
++8% Defensive Ability
+Required Player Level: 40
+Item Level: 40
+Faction: Homestead
+Faction: Homestead
+Potent Blacksteel Powder
+"Secret mix of iron and various minerals known only to the Black Legion."
+(Applied to all two-handed weapons)
+Magic Augment
++60% Physical Damage
++60% Fire Damage
++40 Offensive Ability
+Required Player Level: 40
+Item Level: 40
+Faction: The Black Legion
+Faction: The Black Legion
+Potent Dermapteran Chitin
+"Powder derived from Dermapteran armor plates, after they go through an extensive acid treatment."
+(Applied to all two-handed weapons)
+Magic Augment
+16% Pierce Resistance
+20% Reduced Stun Duration
+Increases Armor by 8%
+Required Player Level: 40
+Item Level: 40
+Faction: Homestead
+Faction: Homestead
+Potent Manticore Venom
+"Powerful toxin extracted from Manticores that burns the skin on contact."
+(Applied to all two-handed weapons)
+Magic Augment
+90 Poison Damage over 5 Seconds
++60% Poison Damage
++10% Damage to Chthonics
+Required Player Level: 40
+Item Level: 40
+Faction: The Black Legion
+Faction: The Black Legion
+Potent Raincaller Powder
+"Folktales speak of a sorcerous powder which, when thrown upon an open flame by the village shaman, will summon rain within a fortnight."
+(Applied to all two-handed weapons)
+Magic Augment
++60% Lightning Damage
++60% Electrocute Damage
++40 Offensive Ability
+Required Player Level: 40
+Item Level: 40
+Faction: Homestead
+Faction: Homestead
+Potent Stonetusk Hoof
+"Powder derived from the crushed hoof of a Stonetusk boar, a process which involves many blows with a hefty sledge."
+(Applied to all two-handed weapons)
+Magic Augment
++60% Physical Damage
++60% Internal Trauma Damage
++80 Armor
+Required Player Level: 40
+Item Level: 40
+Faction: Homestead
+Faction: Homestead
+Potent Troll Wart Powder
+"Powder derived from the warts of ancient trolls. Should only be handled with gloves."
+(Applied to all two-handed weapons)
+Magic Augment
++7% Health
++36 Health Regenerated per second
+Increases Health Regeneration by 16%
+Required Player Level: 40
+Item Level: 40
+Faction: Rovers
+Faction: Rovers
+Potent Voidbeast Powder
+"Fine powder derived from the dried remains of Chthonic beasts."
+(Applied to all two-handed weapons)
+Magic Augment
++60% Vitality Damage
++60% Chaos Damage
++40 Offensive Ability
+Required Player Level: 40
+Item Level: 40
+Faction: The Black Legion
+Faction: The Black Legion
+Potent Voidvine Powder
+"Powder derived from a vine found spreading aggressively throughout the Chthonic Void."
+(Applied to all two-handed weapons)
+Magic Augment
+18 Fire Damage
++60% Fire Damage
+12% Chaos Resistance
+Required Player Level: 40
+Item Level: 40
+Faction: Homestead
+Faction: Homestead
+Potent Winterbloom Powder
+"Powder from a pale blue flower strangely found blooming only during the harsh winter months."
+(Applied to all two-handed weapons)
+Magic Augment
++60% Cold Damage
++60% Frostburn Damage
++40 Offensive Ability
+Required Player Level: 40
+Item Level: 40
+Faction: Rovers
+Faction: Rovers
+Potent Witch's Powder
+"Though technically illegal, the powder has found its use among the Legion's conjurers."
+(Applied to all two-handed weapons)
+Magic Augment
+Bonus to All Pets
++6% Offensive Ability
++12% Attack Speed
+Required Player Level: 40
+Item Level: 40
+Faction: The Black Legion
+Faction: The Black Legion
+Raincaller Powder
+"Folktales speak of a sorcerous powder which, when thrown upon an open flame by the village shaman, will summon rain within a fortnight."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Magic Augment
++25% Lightning Damage
++25% Electrocute Damage
++18 Offensive Ability
+Required Player Level: 40
+Item Level: 40
+Faction: Homestead
+Faction: Homestead
+Rifthound Salts
+"Powder derived from the glowing skin of a rifthound matriarch."
+(Applied to rings and amulets)
+Magic Augment
+Bonus to All Pets
++3% Total Speed
+8% Chaos Resistance
+15% Elemental Resistance
+Required Player Level: 40
+Item Level: 40
+Faction: Devil's Crossing
+Faction: Devil's Crossing
+Ritual Salts
+"Salts used in necromantic rituals, often to outline the ritual circle and ward it off from restless spirits."
+(Applied to rings and amulets)
+Magic Augment
++70% Burn Damage
++70% Frostburn Damage
++70% Electrocute Damage
+Required Player Level: 40
+Item Level: 40
+Faction: Order of Death's Vigil
+Faction: Order of Death's Vigil
+Rotbloom Powder
+"Powder derived from a brown-grey flower found growing among carnage and rot."
+(Applied to rings and amulets)
+Magic Augment
++25% Vitality Damage
++25% Chaos Damage
++3% Health
+Required Player Level: 40
+Item Level: 40
+Faction: Rovers
+Faction: Rovers
+Slith Venom
+"Powder extracted from the venomous saliva of Slith matriarchs."
+(Applied to rings and amulets)
+Magic Augment
+15% Poison & Acid Resistance
+15% Bleeding Resistance
+54 Acid Retaliation
++10% to All Retaliation Damage
+Required Player Level: 40
+Item Level: 40
+Faction: Devil's Crossing
+Faction: Devil's Crossing
+Slithweed Powder
+"Foul-smelling powder derived from a weed found commonly around swamps and refuse."
+(Applied to rings and amulets)
+Magic Augment
++25% Acid Damage
++25% Poison Damage
++14 Defensive Ability
+Required Player Level: 40
+Item Level: 40
+Faction: Rovers
+Faction: Rovers
+Stonetusk Hoof
+"Powder derived from the crushed hoof of a Stonetusk boar, a process which involves many blows with a hefty sledge."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Magic Augment
++25% Physical Damage
++25% Internal Trauma Damage
++35 Armor
+Required Player Level: 40
+Item Level: 40
+Faction: Homestead
+Faction: Homestead
+Storm Powder
+"A blue powder sparking with raw power from a lightning strike."
+(Applied to rings and amulets)
+Magic Augment
++100 Health
+15% Lightning Resistance
+1-107 Lightning Retaliation
++10% to All Retaliation Damage
+Required Player Level: 40
+Item Level: 40
+Faction: Kymon's Chosen
+Faction: Kymon's Chosen
+Stormtail Viper Venom
+"Powder that sparks with energy, carefully extracted from the venom of a Stormtail Viper."
+(Applied to rings and amulets)
+Magic Augment
++25% Lightning Damage
++25% Electrocute Damage
++20 Offensive Ability
+Required Player Level: 40
+Item Level: 40
+Faction: Rovers
+Faction: Rovers
+Troll Wart Powder
+"Powder derived from the warts of ancient trolls. Should only be handled with gloves."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Magic Augment
++3% Health
++16 Health Regenerated per second
+Increases Health Regeneration by 8%
+Required Player Level: 40
+Item Level: 40
+Faction: Rovers
+Faction: Rovers
+Voidbeast Powder
+"Fine powder derived from the dried remains of Chthonic beasts."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Magic Augment
++25% Vitality Damage
++25% Chaos Damage
++18 Offensive Ability
+Required Player Level: 40
+Item Level: 40
+Faction: The Black Legion
+Faction: The Black Legion
+Voidvine Powder
+"Powder derived from a vine found spreading aggressively throughout the Chthonic Void."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Magic Augment
+8 Fire Damage
++25% Fire Damage
+6% Chaos Resistance
+Required Player Level: 40
+Item Level: 40
+Faction: Homestead
+Faction: Homestead
+Winterbloom Powder
+"Powder from a pale blue flower strangely found blooming only during the harsh winter months."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Magic Augment
++25% Cold Damage
++25% Frostburn Damage
++18 Offensive Ability
+Required Player Level: 40
+Item Level: 40
+Faction: Rovers
+Faction: Rovers
+Witch's Powder
+"Though technically illegal, the powder has found its use among the Legion's conjurers."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Magic Augment
+Bonus to All Pets
++3% Offensive Ability
++6% Attack Speed
+Required Player Level: 40
+Item Level: 40
+Faction: The Black Legion
+Faction: The Black Legion
+Blazecore Powder
+"Powder extracted from the blazing hearts of fiery beasts."
+(Applied to rings and amulets)
+Magic Augment
+36 Burn Damage over 3 Seconds
++36% Fire Damage
++36% Lightning Damage
++36% Burn Damage
++36% Electrocute Damage
+Required Player Level: 65
+Item Level: 65
+Faction: Malmouth Resistance
+Faction: Malmouth Resistance
+Ashes of Malmouth
+Blight Beast Pustules
+"Though necromancy is seldom used among the Coven, it has its uses. The pus from blight beasts in particular has arcane properties if extracted properly."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Magic Augment
++40% Acid Damage
++40% Poison Damage
++200 Health
+Bonus to All Pets
++20% to All Damage
+Increases Armor by 8%
+Required Player Level: 65
+Item Level: 65
+Faction: Coven of Ugdenbog
+Faction: Coven of Ugdenbog
+Ashes of Malmouth
+Bloodrose Thorn
+"So named for its incredibly sharp thorns and vibrant red color, the bloodrose thorn makes a potent hemorrhaging poison when concentrated."
+(Applied to rings and amulets)
+Magic Augment
+36 Bleeding Damage over 3 Seconds
++36% Pierce Damage
++36% Bleeding Damage
+Required Player Level: 65
+Item Level: 65
+Faction: Coven of Ugdenbog
+Faction: Coven of Ugdenbog
+Ashes of Malmouth
+Bloodscale Powder
+"Powder derived from the scales of the Bloodscale Slith sometimes seen roaming parts of Ugdenbog."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Magic Augment
++40% Bleeding Damage
++200 Health
++4% Health
+Required Player Level: 65
+Item Level: 65
+Faction: Barrowholm
+Faction: Barrowholm
+Ashes of Malmouth
+Cinderbark Powder
+"Cinders from the trees incinerated by a forgotten god's wrath."
+(Applied to rings and amulets)
+Magic Augment
++36% Fire Damage
++36% Lightning Damage
++36% Burn Damage
++36% Electrocute Damage
+15% Bleeding Resistance
+Required Player Level: 65
+Item Level: 65
+Faction: Cult of Bysmiel
+Faction: Cult of Bysmiel
+Forgotten Gods
+Colossus Spine
+"Aetherial colossi are nothing to be trifled with, but even bringing one down provides enough material to create several month's supply."
+(Applied to rings and amulets)
+Magic Augment
++30 Physique
+Increases Armor by 6%
+Increases Armor Absorption by 5%
+Required Player Level: 65
+Item Level: 65
+Faction: Malmouth Resistance
+Faction: Malmouth Resistance
+Ashes of Malmouth
+Desert Tongue
+"Powder derived from a vibrant red plant found growing within the Korvan Plateau."
+(Applied to rings and amulets)
+Magic Augment
+10 Chaos Damage
++36% Chaos Damage
+Bonus to All Pets
+4 Chaos Damage
++18% to All Damage
+Required Player Level: 65
+Item Level: 65
+Faction: Cult of Solael
+Faction: Cult of Solael
+Forgotten Gods
+Duskbloom
+"The powdered petals of a potent plant found growing near now seldom seen pools of water within the Korvan Plateau."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Magic Augment
++40% Chaos Damage
++20 Defensive Ability
+Increases Armor by 5%
+Required Player Level: 65
+Item Level: 65
+Faction: Cult of Solael
+Faction: Cult of Solael
+Forgotten Gods
+Eldritch Bloom Powder
+"Powder derived from a rare plant found only within the Korvan Plateau, its biology seems to be unlike any other fauna in the region."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Magic Augment
++40% Elemental Damage
+10% Chaos Resistance
+Bonus to All Pets
+4 Elemental Damage
++20% to All Damage
+Required Player Level: 65
+Item Level: 65
+Faction: Cult of Dreeg
+Faction: Cult of Dreeg
+Forgotten Gods
+Fleshwarp Powder
+"This enchanting powder must be carefully handled such that it never touches human flesh, but acquiring the materials from Aetherial corruptions is perhaps the most difficult part."
+(Applied to rings and amulets)
+Magic Augment
+60 Internal Trauma over 5 Seconds
++36% Physical Damage
++36% Aether Damage
++36% Internal Trauma Damage
+Required Player Level: 65
+Item Level: 65
+Faction: Malmouth Resistance
+Faction: Malmouth Resistance
+Ashes of Malmouth
+Gargoyle Fang
+"Fang from a mythical eldritch creature rarely seen outside of the Eldritch Realm."
+(Applied to rings and amulets)
+Magic Augment
++36% Physical Damage
++36% Cold Damage
++36% Internal Trauma Damage
++36% Frostburn Damage
++20 Defensive Ability
+Required Player Level: 65
+Item Level: 65
+Faction: Cult of Dreeg
+Faction: Cult of Dreeg
+Forgotten Gods
+Gargoyle Scale
+"Teeming with eldritch energies and nearly impossible to turn to powder without arcane tools."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Magic Augment
+50 Internal Trauma over 5 Seconds
++40% Physical Damage
++40% Internal Trauma Damage
++25 Offensive Ability
+Required Player Level: 65
+Item Level: 65
+Faction: Cult of Solael
+Faction: Cult of Solael
+Forgotten Gods
+Gryphon Talon
+"Powder derived from the talons of gryphons inhabiting the Korvan Plateau."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Magic Augment
++40% Vitality Damage
++40% Bleeding Damage
++40% Vitality Decay
++4% Health
+Required Player Level: 65
+Item Level: 65
+Faction: Cult of Solael
+Faction: Cult of Solael
+Forgotten Gods
+Haunted Powder
+"Powder left behind by the ghostly apparitions sometimes seen around Ugdenbog."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Magic Augment
++40% Lightning Damage
++40% Aether Damage
++40% Electrocute Damage
+10% Reduced Stun Duration
+Required Player Level: 65
+Item Level: 65
+Faction: Barrowholm
+Faction: Barrowholm
+Ashes of Malmouth
+Hexxer's Bloom
+"This plant appears to be new to Cairn, likely having traveled through the weakening barrier between realities as the rifthounds and other beasts had, but its arcane properties quickly earned it a place in the Coven's stockpiles."
+(Applied to rings and amulets)
+Magic Augment
++36% Lightning Damage
++36% Aether Damage
++36% Electrocute Damage
+8% Reduced Petrify Duration
+Bonus to All Pets
++3% Offensive Ability
+Required Player Level: 65
+Item Level: 65
+Faction: Coven of Ugdenbog
+Faction: Coven of Ugdenbog
+Ashes of Malmouth
+Hexxer's Delight
+"Powder derived from a rare mushroom growing in Ugdenbog. It is considered a delicacy by the common folk, and a powerful ingredient by the Coven."
+(Applied to rings and amulets)
+Magic Augment
++36% Elemental Damage
++200 Health
++25 Offensive Ability
+Required Player Level: 65
+Item Level: 65
+Faction: Coven of Ugdenbog
+Faction: Coven of Ugdenbog
+Ashes of Malmouth
+Hexxer's Kiss
+"A potent powder used by the Coven to dispose of particularly undesirable pests."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Magic Augment
++40% Fire Damage
++40% Chaos Damage
++40% Burn Damage
+15% Chance of 15% Reduced target's Resistances for 5 Seconds
+Required Player Level: 65
+Item Level: 65
+Faction: Coven of Ugdenbog
+Faction: Coven of Ugdenbog
+Ashes of Malmouth
+Imp Eye Powder
+"Powder extracted from the bloated eyes of Aetherial imps."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Magic Augment
+10 Aether Damage
++40% Vitality Damage
++40% Aether Damage
++40% Vitality Decay
+Required Player Level: 65
+Item Level: 65
+Faction: Malmouth Resistance
+Faction: Malmouth Resistance
+Ashes of Malmouth
+Keeper's Essence
+"Arcane essence from the various guardians roaming the temples of the Korvan Plateau."
+(Applied to rings and amulets)
+Magic Augment
++36% Elemental Damage
++20 Defensive Ability
+Increases Armor by 4%
+Required Player Level: 65
+Item Level: 65
+Faction: Cult of Solael
+Faction: Cult of Solael
+Forgotten Gods
+Korvan Cactus Powder
+"Korvan cacti greedily retain precious water in the Korvan Plateau, and absorb the eldritch energies that teem within."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Magic Augment
++40% Acid Damage
++40% Vitality Damage
++40% Poison Damage
++40% Vitality Decay
++200 Health
+Required Player Level: 65
+Item Level: 65
+Faction: Cult of Dreeg
+Faction: Cult of Dreeg
+Forgotten Gods
+Korvan Sunpowder
+"Crystals infused with the scorching sun of the Korvan Plateau."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Magic Augment
+30 Burn Damage over 3 Seconds
++40% Physical Damage
++40% Fire Damage
++40% Internal Trauma Damage
++40% Burn Damage
+Required Player Level: 65
+Item Level: 65
+Faction: Cult of Bysmiel
+Faction: Cult of Bysmiel
+Forgotten Gods
+Machinist Powder
+"Made famous by Malmouth's once booming industry, the enchanting powder strengthens metal to withstand even greater punishment."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Magic Augment
++40% Physical Damage
++40% Pierce Damage
++40% Internal Trauma Damage
+Increases Armor by 5%
+Required Player Level: 65
+Item Level: 65
+Faction: Malmouth Resistance
+Faction: Malmouth Resistance
+Ashes of Malmouth
+Magecap Powder
+"Magecaps thrive in the damp earth of Ugdenbog, providing the Coven both with sustenance and materials for their craft."
+(Applied to rings and amulets)
+Magic Augment
++36% Fire Damage
++36% Cold Damage
++36% Burn Damage
++36% Frostburn Damage
+8% Reduced Freeze Duration
+Required Player Level: 65
+Item Level: 65
+Faction: Coven of Ugdenbog
+Faction: Coven of Ugdenbog
+Ashes of Malmouth
+Mender's Powder
+"Concocted by the survivors of Malmouth to quickly mend wounds on the fields of battle."
+(Applied to rings and amulets)
+Magic Augment
+Bonus to All Pets
++10% Health
+20% Aether Resistance
+20% Chaos Resistance
+Required Player Level: 65
+Item Level: 65
+Faction: Malmouth Resistance
+Faction: Malmouth Resistance
+Ashes of Malmouth
+Nightsteel Polish
+"A Malmouth specialty, highly coveted by the nightblades of Erulan."
+(Applied to rings and amulets)
+Magic Augment
+10 Piercing Damage
++36% Pierce Damage
++36% Cold Damage
++36% Frostburn Damage
+Required Player Level: 65
+Item Level: 65
+Faction: Malmouth Resistance
+Faction: Malmouth Resistance
+Ashes of Malmouth
+Potent Blight Beast Pustules
+"Though necromancy is seldom used among the Coven, it has its uses. The pus from blight beasts in particular has arcane properties if extracted properly."
+(Applied to all two-handed weapons)
+Magic Augment
++90% Acid Damage
++90% Poison Damage
++440 Health
+Bonus to All Pets
++45% to All Damage
+Increases Armor by 16%
+Required Player Level: 65
+Item Level: 65
+Faction: Coven of Ugdenbog
+Faction: Coven of Ugdenbog
+Ashes of Malmouth
+Potent Bloodscale Powder
+"Powder derived from the scales of the Bloodscale Slith sometimes seen roaming parts of Ugdenbog."
+(Applied to all two-handed weapons)
+Magic Augment
++90% Bleeding Damage
++440 Health
++8% Health
+Required Player Level: 65
+Item Level: 65
+Faction: Barrowholm
+Faction: Barrowholm
+Ashes of Malmouth
+Potent Duskbloom
+"The powdered petals of a potent plant found growing near now seldom seen pools of water within the Korvan Plateau."
+(Applied to all two-handed weapons)
+Magic Augment
++90% Chaos Damage
++40 Defensive Ability
+Increases Armor by 10%
+Required Player Level: 65
+Item Level: 65
+Faction: Cult of Solael
+Faction: Cult of Solael
+Forgotten Gods
+Potent Eldritch Bloom Powder
+"Powder derived from a rare plant found only within the Korvan Plateau, its biology seems to be unlike any other fauna in the region."
+(Applied to all two-handed weapons)
+Magic Augment
++90% Elemental Damage
+20% Chaos Resistance
+Bonus to All Pets
+8 Elemental Damage
++45% to All Damage
+Required Player Level: 65
+Item Level: 65
+Faction: Cult of Dreeg
+Faction: Cult of Dreeg
+Forgotten Gods
+Potent Gargoyle Scale
+"Teeming with eldritch energies and nearly impossible to turn to powder without arcane tools."
+(Applied to all two-handed weapons)
+Magic Augment
+110 Internal Trauma over 5 Seconds
++90% Physical Damage
++90% Internal Trauma Damage
++50 Offensive Ability
+Required Player Level: 65
+Item Level: 65
+Faction: Cult of Solael
+Faction: Cult of Solael
+Forgotten Gods
+Potent Gryphon Talon
+"Powder derived from the talons of gryphons inhabiting the Korvan Plateau."
+(Applied to all two-handed weapons)
+Magic Augment
++90% Vitality Damage
++90% Bleeding Damage
++90% Vitality Decay
++8% Health
+Required Player Level: 65
+Item Level: 65
+Faction: Cult of Solael
+Faction: Cult of Solael
+Forgotten Gods
+Potent Haunted Powder
+"Powder left behind by the ghostly apparitions sometimes seen around Ugdenbog."
+(Applied to all two-handed weapons)
+Magic Augment
++90% Lightning Damage
++90% Aether Damage
++90% Electrocute Damage
+20% Reduced Stun Duration
+Required Player Level: 65
+Item Level: 65
+Faction: Barrowholm
+Faction: Barrowholm
+Ashes of Malmouth
+Potent Hexxer's Kiss
+"A potent powder used by the Coven to dispose of particularly undesirable pests."
+(Applied to all two-handed weapons)
+Magic Augment
++90% Fire Damage
++90% Chaos Damage
++90% Burn Damage
+30% Chance of 15% Reduced target's Resistances for 5 Seconds
+Required Player Level: 65
+Item Level: 65
+Faction: Coven of Ugdenbog
+Faction: Coven of Ugdenbog
+Ashes of Malmouth
+Potent Imp Eye Powder
+"Powder extracted from the bloated eyes of Aetherial imps."
+(Applied to all two-handed weapons)
+Magic Augment
+22 Aether Damage
++90% Vitality Damage
++90% Aether Damage
++90% Vitality Decay
+Required Player Level: 65
+Item Level: 65
+Faction: Malmouth Resistance
+Faction: Malmouth Resistance
+Ashes of Malmouth
+Potent Korvan Cactus Powder
+"Korvan cacti greedily retain precious water in the Korvan Plateau, and absorb the eldritch energies that teem within."
+(Applied to all two-handed weapons)
+Magic Augment
++90% Acid Damage
++90% Vitality Damage
++90% Poison Damage
++90% Vitality Decay
++440 Health
+Required Player Level: 65
+Item Level: 65
+Faction: Cult of Dreeg
+Faction: Cult of Dreeg
+Forgotten Gods
+Potent Korvan Sunpowder
+"Crystals infused with the scorching sun of the Korvan Plateau."
+(Applied to all two-handed weapons)
+Magic Augment
+66 Burn Damage over 3 Seconds
++90% Physical Damage
++90% Fire Damage
++90% Internal Trauma Damage
++90% Burn Damage
+Required Player Level: 65
+Item Level: 65
+Faction: Cult of Bysmiel
+Faction: Cult of Bysmiel
+Forgotten Gods
+Potent Machinist Powder
+"Made famous by Malmouth's once booming industry, the enchanting powder strengthens metal to withstand even greater punishment."
+(Applied to all two-handed weapons)
+Magic Augment
++90% Physical Damage
++90% Pierce Damage
++90% Internal Trauma Damage
+Increases Armor by 10%
+Required Player Level: 65
+Item Level: 65
+Faction: Malmouth Resistance
+Faction: Malmouth Resistance
+Ashes of Malmouth
+Potent Sandclaw Fang
+"A fang finely ground into enchanting powder, gathered from the sandclaws roaming the Korvan dunes."
+(Applied to all two-handed weapons)
+Magic Augment
+66 Bleeding Damage over 3 Seconds
++90% Bleeding Damage
+Bonus to All Pets
+24 Bleeding Damage over 3 Seconds
++45% to All Damage
+Required Player Level: 65
+Item Level: 65
+Faction: Cult of Bysmiel
+Faction: Cult of Bysmiel
+Forgotten Gods
+Potent Scarabshell Powder
+"The shells of the Korvan scarabs make for fine enchanting powder, if you can actually manage to crush them."
+(Applied to all two-handed weapons)
+Magic Augment
++90% Lightning Damage
++90% Aether Damage
++90% Electrocute Damage
++50 Offensive Ability
+Required Player Level: 65
+Item Level: 65
+Faction: Cult of Dreeg
+Faction: Cult of Dreeg
+Forgotten Gods
+Potent Sparkbloom Powder
+"Powder from a vibrant flower found growing in the outskirts of Malmouth, known for its fire-tinted petals."
+(Applied to all two-handed weapons)
+Magic Augment
+22 Elemental Damage
++90% Elemental Damage
++50 Offensive Ability
+Bonus to All Pets
++6% Attack Speed
+Required Player Level: 65
+Item Level: 65
+Faction: Malmouth Resistance
+Faction: Malmouth Resistance
+Ashes of Malmouth
+Potent Spikeshell Powder
+"Powder derived from the hard carapace of Ugdenbog spikeshell. It takes many hours and great strength to crush the shell into such a fine material."
+(Applied to all two-handed weapons)
+Magic Augment
++90% Cold Damage
++90% Acid Damage
++90% Frostburn Damage
++90% Poison Damage
++50 Offensive Ability
+Bonus to All Pets
++12% Health
+Required Player Level: 65
+Item Level: 65
+Faction: Barrowholm
+Faction: Barrowholm
+Ashes of Malmouth
+Potent Stardust
+"Dust from a passing star, carefully collected so that its arcane properties would not wane."
+(Applied to all two-handed weapons)
+Magic Augment
++90% Cold Damage
++90% Lightning Damage
++90% Frostburn Damage
++90% Electrocute Damage
++8% Health
+Required Player Level: 65
+Item Level: 65
+Faction: Coven of Ugdenbog
+Faction: Coven of Ugdenbog
+Ashes of Malmouth
+Potent Viper Venom
+"Venom from the Korvan viper, carefully extracted and stored in an enchanted pouch so as not to dissolve the container."
+(Applied to all two-handed weapons)
+Magic Augment
+110 Poison Damage over 5 Seconds
++90% Cold Damage
++90% Acid Damage
++90% Frostburn Damage
++90% Poison Damage
+Required Player Level: 65
+Item Level: 65
+Faction: Cult of Bysmiel
+Faction: Cult of Bysmiel
+Forgotten Gods
+Potent Void Tar
+"Though difficult to work with and highly unstable, Malmouth's arcanists had discovered a use for this dense material in their enchantments."
+(Applied to all two-handed weapons)
+Magic Augment
++90% Chaos Damage
++8% Health
+Increases Armor by 10%
+Required Player Level: 65
+Item Level: 65
+Faction: Malmouth Resistance
+Faction: Malmouth Resistance
+Ashes of Malmouth
+Potent Wendigo Fur
+"Powder derived from tufts of wendigo fur, gift from the Ravager."
+(Applied to all two-handed weapons)
+Magic Augment
++90% Physical Damage
++90% Vitality Damage
++90% Internal Trauma Damage
++90% Vitality Decay
++440 Health
+Required Player Level: 65
+Item Level: 65
+Faction: Barrowholm
+Faction: Barrowholm
+Ashes of Malmouth
+Potent Whipvine Powder
+"Whipvine is difficult to harvest, and sometimes deadly, but its many uses for both medicine and magic make it worth the effort."
+(Applied to all two-handed weapons)
+Magic Augment
+22 Physical Damage
++90% Physical Damage
++90% Internal Trauma Damage
++90% Bleeding Damage
+Required Player Level: 65
+Item Level: 65
+Faction: Coven of Ugdenbog
+Faction: Coven of Ugdenbog
+Ashes of Malmouth
+Rotflesh Powder
+"The creator insisted that it is simply powdered flesh from the bloated human corpses floating about Ugdenbog. Nobody really wants to know for certain."
+(Applied to rings and amulets)
+Magic Augment
++36% Acid Damage
++36% Vitality Damage
++36% Poison Damage
++36% Vitality Decay
+15% Life Leech Resistance
+15% Bleeding Resistance
+Required Player Level: 65
+Item Level: 65
+Faction: Coven of Ugdenbog
+Faction: Coven of Ugdenbog
+Ashes of Malmouth
+Rotvine Powder
+"The stench coming from the powder is merely a sampling of the grotesque scents emitted by the actual plant."
+(Applied to rings and amulets)
+Magic Augment
++36% Cold Damage
++36% Vitality Damage
++36% Frostburn Damage
++36% Vitality Decay
+Required Player Level: 65
+Item Level: 65
+Faction: Cult of Bysmiel
+Faction: Cult of Bysmiel
+Forgotten Gods
+Sagethorn Powder
+"The sagethorn is considered invaluable among scholars for its dark red ink, but those harvesting it must take care around the thorny exterior lest they suffer lesions that never truly heal."
+(Applied to rings and amulets)
+Magic Augment
++36% Pierce Damage
++36% Bleeding Damage
+15% Chaos Resistance
+Required Player Level: 65
+Item Level: 65
+Faction: Cult of Dreeg
+Faction: Cult of Dreeg
+Forgotten Gods
+Sandclaw Fang
+"A fang finely ground into enchanting powder, gathered from the sandclaws roaming the Korvan dunes."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Magic Augment
+30 Bleeding Damage over 3 Seconds
++40% Bleeding Damage
+Bonus to All Pets
+12 Bleeding Damage over 3 Seconds
++20% to All Damage
+Required Player Level: 65
+Item Level: 65
+Faction: Cult of Bysmiel
+Faction: Cult of Bysmiel
+Forgotten Gods
+Sandclaw Scale
+"When sandclaw matriarchs molt, some of their scales have absorbed more of the ambient eldritch energies in the region than others. Those make for the most potent enchantments."
+(Applied to rings and amulets)
+Magic Augment
++200 Health
+15% Aether Resistance
+Bonus to All Pets
++4% Crit Damage
++8% Health
+Required Player Level: 65
+Item Level: 65
+Faction: Cult of Bysmiel
+Faction: Cult of Bysmiel
+Forgotten Gods
+Scarabshell Powder
+"The shells of the Korvan scarabs make for fine enchanting powder, if you can actually manage to crush them."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Magic Augment
++40% Lightning Damage
++40% Aether Damage
++40% Electrocute Damage
++25 Offensive Ability
+Required Player Level: 65
+Item Level: 65
+Faction: Cult of Dreeg
+Faction: Cult of Dreeg
+Forgotten Gods
+Scorpius Venom
+"Venom from the tail glands of the deadly creatures roaming the desert sands."
+(Applied to rings and amulets)
+Magic Augment
+10 Acid Damage
++36% Pierce Damage
++36% Acid Damage
++36% Poison Damage
+Required Player Level: 65
+Item Level: 65
+Faction: Cult of Solael
+Faction: Cult of Solael
+Forgotten Gods
+Soulwarp Powder
+"The essence of a wraithlike spirit bound into bonemeal for enchanting purposes."
+(Applied to rings and amulets)
+Magic Augment
++36% Fire Damage
++36% Aether Damage
++36% Burn Damage
++20 Defensive Ability
+Required Player Level: 65
+Item Level: 65
+Faction: Cult of Solael
+Faction: Cult of Solael
+Forgotten Gods
+Sparkbloom Powder
+"Powder from a vibrant flower found growing in the outskirts of Malmouth, known for its fire-tinted petals."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Magic Augment
+10 Elemental Damage
++40% Elemental Damage
++25 Offensive Ability
+Bonus to All Pets
++3% Attack Speed
+Required Player Level: 65
+Item Level: 65
+Faction: Malmouth Resistance
+Faction: Malmouth Resistance
+Ashes of Malmouth
+Spikeshell Powder
+"Powder derived from the hard carapace of Ugdenbog spikeshell. It takes many hours and great strength to crush the shell into such a fine material."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Magic Augment
++40% Cold Damage
++40% Acid Damage
++40% Frostburn Damage
++40% Poison Damage
++25 Offensive Ability
+Bonus to All Pets
++6% Health
+Required Player Level: 65
+Item Level: 65
+Faction: Barrowholm
+Faction: Barrowholm
+Ashes of Malmouth
+Stardust
+"Dust from a passing star, carefully collected so that its arcane properties would not wane."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Magic Augment
++40% Cold Damage
++40% Lightning Damage
++40% Frostburn Damage
++40% Electrocute Damage
++4% Health
+Required Player Level: 65
+Item Level: 65
+Faction: Coven of Ugdenbog
+Faction: Coven of Ugdenbog
+Ashes of Malmouth
+Veilworm Powder
+"Powder derived from disturbing manifestations of the void that seemingly feed on the barrier between realities."
+(Applied to rings and amulets)
+Magic Augment
++36% Aether Damage
+15% Poison & Acid Resistance
+Required Player Level: 65
+Item Level: 65
+Faction: Cult of Dreeg
+Faction: Cult of Dreeg
+Forgotten Gods
+Viper Scale
+"Scales collected from the Korvan vipers, almost as challenging to gather as their venomous fangs."
+(Applied to rings and amulets)
+Magic Augment
++36% Pierce Damage
++200 Health
++20 Defensive Ability
+Required Player Level: 65
+Item Level: 65
+Faction: Cult of Bysmiel
+Faction: Cult of Bysmiel
+Forgotten Gods
+Viper Venom
+"Venom from the Korvan viper, carefully extracted and stored in an enchanted pouch so as not to dissolve the container."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Magic Augment
+50 Poison Damage over 5 Seconds
++40% Cold Damage
++40% Acid Damage
++40% Frostburn Damage
++40% Poison Damage
+Required Player Level: 65
+Item Level: 65
+Faction: Cult of Bysmiel
+Faction: Cult of Bysmiel
+Forgotten Gods
+Void Ash
+"Ashes from the Chthonian realm, sometimes found on the bodies of slain Chthonians. You would not find anyone foolish enough to actually enter a Chthonian rift."
+(Applied to rings and amulets)
+Magic Augment
+10 Chaos Damage
++36% Acid Damage
++36% Chaos Damage
++36% Poison Damage
+Required Player Level: 65
+Item Level: 65
+Faction: Malmouth Resistance
+Faction: Malmouth Resistance
+Ashes of Malmouth
+Void Salt
+"Enchanting powder derived from the ashes within the Void itself. You sense a hint of human souls within the mix, but can't be sure if that's an addition, or another unpleasant aspect of the void."
+(Applied to rings and amulets)
+Magic Augment
++36% Fire Damage
++36% Chaos Damage
++36% Burn Damage
++20 Defensive Ability
+Required Player Level: 65
+Item Level: 65
+Faction: Cult of Dreeg
+Faction: Cult of Dreeg
+Forgotten Gods
+Void Tar
+"Though difficult to work with and highly unstable, Malmouth's arcanists had discovered a use for this dense material in their enchantments."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Magic Augment
++40% Chaos Damage
++4% Health
+Increases Armor by 5%
+Required Player Level: 65
+Item Level: 65
+Faction: Malmouth Resistance
+Faction: Malmouth Resistance
+Ashes of Malmouth
+Void Tongue
+"Powdered tongue from a Chthonian fiend."
+(Applied to rings and amulets)
+Magic Augment
++36% Vitality Damage
++36% Chaos Damage
++36% Vitality Decay
+8% Reduced Stun Duration
+Required Player Level: 65
+Item Level: 65
+Faction: Coven of Ugdenbog
+Faction: Coven of Ugdenbog
+Ashes of Malmouth
+Wendigo Fur
+"Powder derived from tufts of wendigo fur, gift from the Ravager."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Magic Augment
++40% Physical Damage
++40% Vitality Damage
++40% Internal Trauma Damage
++40% Vitality Decay
++200 Health
+Required Player Level: 65
+Item Level: 65
+Faction: Barrowholm
+Faction: Barrowholm
+Ashes of Malmouth
+Whipvine Powder
+"Whipvine is difficult to harvest, and sometimes deadly, but its many uses for both medicine and magic make it worth the effort."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Magic Augment
+10 Physical Damage
++40% Physical Damage
++40% Internal Trauma Damage
++40% Bleeding Damage
+Required Player Level: 65
+Item Level: 65
+Faction: Coven of Ugdenbog
+Faction: Coven of Ugdenbog
+Ashes of Malmouth
+Aetherstorm Powder
+"Black Legion mages believe that the best way to combat the enemy is to use their power against them. This powder is a rare example where such experiments were sanctioned."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Rare Augment
++35% Lightning Damage
++35% Aether Damage
+4% Less Damage from Aetherials
+4% Less Damage from Aether Corruptions
+10% Elemental Resistance
+Required Player Level: 50
+Item Level: 50
+Faction: The Black Legion
+Faction: The Black Legion
+Beastlord's Calling
+"A concoction used by the people of Homestead to bless their herds."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Rare Augment
+Bonus to All Pets
++15% to All Damage
++5% Health
++3% Defensive Ability
+Required Player Level: 50
+Item Level: 50
+Faction: Homestead
+Faction: Homestead
+Breath of Life
+"The spirit of spring, rebirth, a breath of new life."
+(Applied to rings and amulets)
+Rare Augment
++4% Health
+Increases Health Regeneration by 10%
+15% Vitality Resistance
+Required Player Level: 50
+Item Level: 50
+Faction: Rovers
+Faction: Rovers
+Cairn's Hope
+"Even as they prepare their defenses, the survivors speak fondly of a time when the world will be free of the invaders."
+(Applied to rings and amulets)
+Rare Augment
++3% Health
+Increases Health Regeneration by 15%
+Increases Energy Regeneration by 15%
+18% Bleeding Resistance
+Required Player Level: 50
+Item Level: 50
+Faction: Devil's Crossing
+Faction: Devil's Crossing
+Creed's Cunning
+"The inquisitor's powder, given only to his most trusted allies, sparks with arcane energy."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Rare Augment
++35% Elemental Damage
++200 Health
++22 Offensive Ability
++1 Energy Regenerated per second
+Required Player Level: 50
+Item Level: 50
+Faction: The Black Legion
+Faction: The Black Legion
+Empyrion's Touch
+"Sparking powder believed to have been touched by the Lightbringer himself."
+(Applied to rings and amulets)
+Rare Augment
+30 Electrocute Damage over 3 Seconds
++100% Electrocute Damage
++20 Health Regenerated per second
++10% Energy Absorbed from Enemy Spells
+Required Player Level: 50
+Item Level: 50
+Faction: Kymon's Chosen
+Faction: Kymon's Chosen
+Essence of Ch'thon
+"Weapons coated with the entrails of Chthonian beings often become warped and unrecognizable, but in doing so capture the essence of the void itself."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Rare Augment
++35% Vitality Damage
++35% Chaos Damage
+15% Chance of 15% Reduced target's Resistances for 5 Seconds
+8% Chaos Resistance
+Required Player Level: 50
+Item Level: 50
+Faction: The Black Legion
+Faction: The Black Legion
+Infernal Dust
+"Sorcerous powder burning with the wrath of Empyrion."
+(Applied to rings and amulets)
+Rare Augment
+30 Burn Damage over 3 Seconds
++100% Burn Damage
++25 Offensive Ability
+12% Elemental Resistance
+Required Player Level: 50
+Item Level: 50
+Faction: Kymon's Chosen
+Faction: Kymon's Chosen
+Keeper's Binding Dust
+"Binding Dust created by the Keeper herself to bind the most powerful of undead servants."
+(Applied to rings and amulets)
+Rare Augment
++30% Vitality Damage
+Bonus to All Pets
+18% Vitality Resistance
+20% Reduced Stun Duration
+20% Reduced Freeze Duration
+Required Player Level: 50
+Item Level: 50
+Faction: Order of Death's Vigil
+Faction: Order of Death's Vigil
+Kymon's Fury
+"Those that have seen Kymon in battle say that he fights with the vengeful fury of the gods themselves."
+(Applied to rings and amulets)
+Rare Augment
++30% Physical Damage
++30% Bleeding Damage
++2% Defensive Ability
+10% Reflected Damage Reduction
+Required Player Level: 50
+Item Level: 50
+Faction: Kymon's Chosen
+Faction: Kymon's Chosen
+Kymon's Vision
+"Kymon's vision for Cairn's future drives his Chosen into a frenzy when they engage with the enemies of Cairn."
+(Applied to rings and amulets)
+Rare Augment
++30% Lightning Damage
++30% Electrocute Damage
++25 Offensive Ability
+12% Chaos Resistance
+Required Player Level: 50
+Item Level: 50
+Faction: Kymon's Chosen
+Faction: Kymon's Chosen
+Kymon's Will
+"Kymon, chosen by the gods, bestows some of his divine status upon the worthy and willing."
+(Applied to rings and amulets)
+Rare Augment
++30% Fire Damage
++30% Burn Damage
+33% Chance of 10% Reduced target's Damage for 5 Seconds
++2% Defensive Ability
+Required Player Level: 50
+Item Level: 50
+Faction: Kymon's Chosen
+Faction: Kymon's Chosen
+Malkadarr's Chillbane
+"Sorcerous powder created by Malkadarr, First of the Inner Circle."
+(Applied to rings and amulets)
+Rare Augment
+30 Frostburn Damage over 3 Seconds
++100% Frostburn Damage
++150 Health
++25 Offensive Ability
+Required Player Level: 50
+Item Level: 50
+Faction: Order of Death's Vigil
+Faction: Order of Death's Vigil
+Menhir's Blessing
+"It is said that earth blessed by the deity Menhir brings the most plentiful harvest. When applied correctly, this blessing can be extended to tools, homes and even weapons."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Rare Augment
++10% Stun Duration
++17 Physique
+Increases Armor by 5%
+Required Player Level: 50
+Item Level: 50
+Faction: Homestead
+Faction: Homestead
+Mogdrogen's Blessing
+"Powder allegedly blessed by the beast god himself to strengthen the bond between man and beast."
+(Applied to rings and amulets)
+Rare Augment
+Bonus to All Pets
++5% Health
++3% Offensive Ability
++5% Attack Speed
+Required Player Level: 50
+Item Level: 50
+Faction: Rovers
+Faction: Rovers
+Mogdrogen's Sanctity
+"Legends speak of a time when Mogdrogen, the beast god, made a pact with Rhowan that no animal shall harm him or his people for as long as they never lift a blade. Unfortunately aether-afflicted animals do not seem to share this sentiment."
+(Applied to rings and amulets)
+Rare Augment
+4% Less Damage from Beasts
++180 Health
++20 Health Regenerated per second
+12% Elemental Resistance
+Required Player Level: 50
+Item Level: 50
+Faction: Rovers
+Faction: Rovers
+Nature's Harvest
+"Some farmers pray for a healthy harvest. Those more magically inclined know how to cheat the odds. When adapted to weapons, this wild growth can prove disastrous to flesh."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Rare Augment
++35% Poison Damage
+10% Chance of 55 Reduced target's Defensive Ability for 5 Seconds
++6% Damage to Humans
++3% Health
+Required Player Level: 50
+Item Level: 50
+Faction: Homestead
+Faction: Homestead
+Nature's Wrath
+"Potent mix of poisons and toxins known only to the Rovers and used only under dire circumstances."
+(Applied to rings and amulets)
+Rare Augment
++30% Acid Damage
++30% Poison Damage
++2% Offensive Ability
+Required Player Level: 50
+Item Level: 50
+Faction: Rovers
+Faction: Rovers
+Oleron's Fervor
+"Some Black Legion troops shout the war god's name as they charge into battle. This enchantment, given only to officers, was named in honor of the legion's patron deity."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Rare Augment
+10% Chance of +200% to All Damage
++35% Physical Damage
++35% Bleeding Damage
+10% Pierce Resistance
+Required Player Level: 50
+Item Level: 50
+Faction: The Black Legion
+Faction: The Black Legion
+Outcast's Bastion
+"Supreme enchantment devised by the Outcast to bestow skin of iron upon the user."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Rare Augment
++10 Defensive Ability
+8% Aether Resistance
+8% Chaos Resistance
+Required Player Level: 50
+Item Level: 50
+Faction: The Outcast
+Faction: The Outcast
+Outcast's Deathtouch
+"Supreme enchantment devised by the Outcast to bestow mastery over life's essence upon the user."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Rare Augment
+10 Vitality Damage
++35% Vitality Damage
++35% Vitality Decay
++200 Health
+Required Player Level: 50
+Item Level: 50
+Faction: The Outcast
+Faction: The Outcast
+Outcast's Frostbite
+"Supreme enchantment devised by the Outcast to bestow mastery over ice upon the user."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Rare Augment
++35% Cold Damage
++35% Frostburn Damage
+3% Chance to Freeze target for 2 Seconds
++200 Health
+Required Player Level: 50
+Item Level: 50
+Faction: The Outcast
+Faction: The Outcast
+Outcast's Inferno
+"Supreme enchantment devised by the Outcast to bestow mastery of hellfire upon the user."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Rare Augment
++35% Fire Damage
++35% Burn Damage
++200 Health
+12% Fire Resistance
+Required Player Level: 50
+Item Level: 50
+Faction: The Outcast
+Faction: The Outcast
+Outcast's Might
+"Supreme enchantment devised by the Outcast to bestow the strength of ten men upon the user."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Rare Augment
++35% Physical Damage
++25% Pierce Damage
++200 Health
+8% Aether Resistance
+Required Player Level: 50
+Item Level: 50
+Faction: The Outcast
+Faction: The Outcast
+Outcast's Riftstorm
+"Supreme enchantment devised by the Outcast to bestow mastery over the chaotic void upon the user."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Rare Augment
++35% Chaos Damage
++200 Health
++22 Offensive Ability
++1 Energy Regenerated per second
+Required Player Level: 50
+Item Level: 50
+Faction: The Outcast
+Faction: The Outcast
+Outcast's Thunder
+"Supreme enchantment devised by the Outcast to bestow mastery of the skies upon the user."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Rare Augment
++35% Lightning Damage
++35% Electrocute Damage
+3% Chance to Stun target for 1.5 Seconds
++200 Health
+Required Player Level: 50
+Item Level: 50
+Faction: The Outcast
+Faction: The Outcast
+Outcast's Venom
+"Supreme enchantment devised by the Outcast to bestow mastery over poisons upon the user."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Rare Augment
+10 Acid Damage
++35% Acid Damage
++35% Poison Damage
++200 Health
+Required Player Level: 50
+Item Level: 50
+Faction: The Outcast
+Faction: The Outcast
+Outcast's Wrath
+"Supreme enchantment devised by the Outcast to bestow mastery over the aether upon the user."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Rare Augment
++35% Aether Damage
++6% Damage to Aetherials
++6% Damage to Aether Corruptions
++200 Health
++22 Offensive Ability
+Required Player Level: 50
+Item Level: 50
+Faction: The Outcast
+Faction: The Outcast
+Overseer's Gaze
+"Kasparov, his attention ever consumed by his experiments, accidentally stumbled upon a use for the eyes of Aetherial Overseers when he tried to turn one into an explosive."
+(Applied to rings and amulets)
+Rare Augment
++30% Lightning Damage
++10% Stun Duration
++25 Offensive Ability
+15% Aether Resistance
+Required Player Level: 50
+Item Level: 50
+Faction: Devil's Crossing
+Faction: Devil's Crossing
+Potent Aetherstorm Powder
+"Black Legion mages believe that the best way to combat the enemy is to use their power against them. This powder is a rare example where such experiments were sanctioned."
+(Applied to all two-handed weapons)
+Rare Augment
++80% Lightning Damage
++80% Aether Damage
+8% Less Damage from Aetherials
+8% Less Damage from Aether Corruptions
+20% Elemental Resistance
+Required Player Level: 50
+Item Level: 50
+Faction: The Black Legion
+Faction: The Black Legion
+Potent Beastlord's Calling
+"A concoction used by the people of Homestead to bless their herds."
+(Applied to all two-handed weapons)
+Rare Augment
+Bonus to All Pets
++32% to All Damage
++10% Health
++6% Defensive Ability
+Required Player Level: 50
+Item Level: 50
+Faction: Homestead
+Faction: Homestead
+Potent Creed's Cunning
+"The inquisitor's powder, given only to his most trusted allies, sparks with arcane energy."
+(Applied to all two-handed weapons)
+Rare Augment
++80% Elemental Damage
++440 Health
++45 Offensive Ability
++2 Energy Regenerated per second
+Required Player Level: 50
+Item Level: 50
+Faction: The Black Legion
+Faction: The Black Legion
+Potent Essence of Ch'thon
+"Weapons coated with the entrails of Chthonian beings often become warped and unrecognizable, but in doing so capture the essence of the void itself."
+(Applied to all two-handed weapons)
+Rare Augment
++80% Vitality Damage
++80% Chaos Damage
+30% Chance of 15% Reduced target's Resistances for 5 Seconds
+16% Chaos Resistance
+Required Player Level: 50
+Item Level: 50
+Faction: The Black Legion
+Faction: The Black Legion
+Potent Menhir's Blessing
+"It is said that earth blessed by the deity Menhir brings the most plentiful harvest. When applied correctly, this blessing can be extended to tools, homes and even weapons."
+(Applied to all two-handed weapons)
+Rare Augment
++20% Stun Duration
++35 Physique
+Increases Armor by 10%
+Required Player Level: 50
+Item Level: 50
+Faction: Homestead
+Faction: Homestead
+Potent Nature's Harvest
+"Some farmers pray for a healthy harvest. Those more magically inclined know how to cheat the odds. When adapted to weapons, this wild growth can prove disastrous to flesh."
+(Applied to all two-handed weapons)
+Rare Augment
++80% Poison Damage
+20% Chance of 55 Reduced target's Defensive Ability for 5 Seconds
++12% Damage to Humans
++7% Health
+Required Player Level: 50
+Item Level: 50
+Faction: Homestead
+Faction: Homestead
+Potent Oleron's Fervor
+"Some Black Legion troops shout the war god's name as they charge into battle. This enchantment, given only to officers, was named in honor of the legion's patron deity."
+(Applied to all two-handed weapons)
+Rare Augment
+10% Chance of +500% to All Damage
++80% Physical Damage
++80% Bleeding Damage
+20% Pierce Resistance
+Required Player Level: 50
+Item Level: 50
+Faction: The Black Legion
+Faction: The Black Legion
+Potent Outcast's Bastion
+"Supreme enchantment devised by the Outcast to bestow skin of iron upon the user."
+(Applied to all two-handed weapons)
+Rare Augment
++22 Defensive Ability
+16% Aether Resistance
+16% Chaos Resistance
+Required Player Level: 50
+Item Level: 50
+Faction: The Outcast
+Faction: The Outcast
+Potent Outcast's Deathtouch
+"Supreme enchantment devised by the Outcast to bestow mastery over life's essence upon the user."
+(Applied to all two-handed weapons)
+Rare Augment
+22 Vitality Damage
++80% Vitality Damage
++80% Vitality Decay
++440 Health
+Required Player Level: 50
+Item Level: 50
+Faction: The Outcast
+Faction: The Outcast
+Potent Outcast's Frostbite
+"Supreme enchantment devised by the Outcast to bestow mastery over ice upon the user."
+(Applied to all two-handed weapons)
+Rare Augment
++80% Cold Damage
++80% Frostburn Damage
+6% Chance to Freeze target for 2 Seconds
++440 Health
+Required Player Level: 50
+Item Level: 50
+Faction: The Outcast
+Faction: The Outcast
+Potent Outcast's Inferno
+"Supreme enchantment devised by the Outcast to bestow mastery of hellfire upon the user."
+(Applied to all two-handed weapons)
+Rare Augment
++80% Fire Damage
++80% Burn Damage
++440 Health
+24% Fire Resistance
+Required Player Level: 50
+Item Level: 50
+Faction: The Outcast
+Faction: The Outcast
+Potent Outcast's Might
+"Supreme enchantment devised by the Outcast to bestow the strength of ten men upon the user."
+(Applied to all two-handed weapons)
+Rare Augment
++80% Physical Damage
++60% Pierce Damage
++440 Health
+16% Aether Resistance
+Required Player Level: 50
+Item Level: 50
+Faction: The Outcast
+Faction: The Outcast
+Potent Outcast's Riftstorm
+"Supreme enchantment devised by the Outcast to bestow mastery over the chaotic void upon the user."
+(Applied to all two-handed weapons)
+Rare Augment
++80% Chaos Damage
++440 Health
++45 Offensive Ability
++2 Energy Regenerated per second
+Required Player Level: 50
+Item Level: 50
+Faction: The Outcast
+Faction: The Outcast
+Potent Outcast's Thunder
+"Supreme enchantment devised by the Outcast to bestow mastery of the skies upon the user."
+(Applied to all two-handed weapons)
+Rare Augment
++80% Lightning Damage
++80% Electrocute Damage
+6% Chance to Stun target for 1.5 Seconds
++440 Health
+Required Player Level: 50
+Item Level: 50
+Faction: The Outcast
+Faction: The Outcast
+Potent Outcast's Venom
+"Supreme enchantment devised by the Outcast to bestow mastery over poisons upon the user."
+(Applied to all two-handed weapons)
+Rare Augment
+22 Acid Damage
++80% Acid Damage
++80% Poison Damage
++440 Health
+Required Player Level: 50
+Item Level: 50
+Faction: The Outcast
+Faction: The Outcast
+Potent Outcast's Wrath
+"Supreme enchantment devised by the Outcast to bestow mastery over the aether upon the user."
+(Applied to all two-handed weapons)
+Rare Augment
++80% Aether Damage
++12% Damage to Aetherials
++12% Damage to Aether Corruptions
++440 Health
++45 Offensive Ability
+Required Player Level: 50
+Item Level: 50
+Faction: The Outcast
+Faction: The Outcast
+Potent Solar Radiance
+"The power of the sun, trapped in sorcerous powder."
+(Applied to all two-handed weapons)
+Rare Augment
+22 Fire Damage
++80% Fire Damage
++45 Offensive Ability
++20% Energy Absorbed from Enemy Spells
+Required Player Level: 50
+Item Level: 50
+Faction: Homestead
+Faction: Homestead
+Potent Ulgrim's Guile
+"Nobody knows for sure what the First Blade of the Emperor combines to create this sorcerous powder, but none can question the results."
+(Applied to all two-handed weapons)
+Rare Augment
+18 Piercing Damage
++60% Pierce Damage
++80% Cold Damage
++45 Offensive Ability
+Required Player Level: 50
+Item Level: 50
+Faction: The Black Legion
+Faction: The Black Legion
+Rhowan's Resolve
+"Rhowan, the last king of Arkovia and founder of the Rhowari, was said to have abandoned all his kingly possessions when he set out upon the road. His conviction and resolve through difficult times represent everything that all Rovers strive towards."
+(Applied to rings and amulets)
+Rare Augment
++30% Physical Damage
+Increases Armor Absorption by 2%
+75 Acid Retaliation
++16% to All Retaliation Damage
+Required Player Level: 50
+Item Level: 50
+Faction: Rovers
+Faction: Rovers
+Rhowan's Wisdom
+"Rhowan, the last king of Arkovia and founder of the Rhowari, represents wisdom among the Rovers. This enchantment was named in his honor."
+(Applied to rings and amulets)
+Rare Augment
++30% Elemental Damage
++2% Spirit
++2% Casting Speed
+12% Elemental Resistance
+Required Player Level: 50
+Item Level: 50
+Faction: Rovers
+Faction: Rovers
+Solar Radiance
+"The power of the sun, trapped in sorcerous powder."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Rare Augment
+10 Fire Damage
++35% Fire Damage
++22 Offensive Ability
++10% Energy Absorbed from Enemy Spells
+Required Player Level: 50
+Item Level: 50
+Faction: Homestead
+Faction: Homestead
+Song of the Elements
+"Sahdina, the spirit guide, has devised this enchantment to contain the conflicting forces of fire and ice."
+(Applied to rings and amulets)
+Rare Augment
++30% Fire Damage
++30% Cold Damage
+15% Elemental Resistance
+Required Player Level: 50
+Item Level: 50
+Faction: Devil's Crossing
+Faction: Devil's Crossing
+Spirit of Vengeance
+"Captured form of a vile and vengeful spirit from the Arkovian ruins. The inside of the crucible is etched with protective runes."
+(Applied to rings and amulets)
+Rare Augment
++30% Vitality Damage
++4% Health
+75 Vitality Retaliation
++16% to All Retaliation Damage
+Required Player Level: 50
+Item Level: 50
+Faction: Rovers
+Faction: Rovers
+Survivor's Ally
+"When allies are few, an animal companion can prove to be the only true friend."
+(Applied to rings and amulets)
+Rare Augment
+12% Elemental Resistance
+Bonus to All Pets
++15% to All Damage
++12% Health
+Required Player Level: 50
+Item Level: 50
+Faction: Devil's Crossing
+Faction: Devil's Crossing
+Survivor's Ingenuity
+"With supplies limited, the people of Devil's Crossing have devised clever solutions to deal with seemingly any threat, and that includes enchantments."
+(Applied to rings and amulets)
+Rare Augment
++20% to All Damage
++2% Offensive Ability
++2% Defensive Ability
+Required Player Level: 50
+Item Level: 50
+Faction: Devil's Crossing
+Faction: Devil's Crossing
+Survivor's Perseverance
+"With the powers of chaos and the aether on their doorstep, the survivors have adapted to these new threats."
+(Applied to rings and amulets)
+Rare Augment
++30% Aether Damage
++30% Chaos Damage
+12% Aether Resistance
+12% Chaos Resistance
+Required Player Level: 50
+Item Level: 50
+Faction: Devil's Crossing
+Faction: Devil's Crossing
+Survivor's Resilience
+"When times seem most grim, the human will to survive is at its greatest."
+(Applied to rings and amulets)
+Rare Augment
++3% Health
++3% Shield Block Chance
++20% Shield Damage Blocked
+Required Player Level: 50
+Item Level: 50
+Faction: Devil's Crossing
+Faction: Devil's Crossing
+Traveler's Boon
+"Rovers setting out on particularly lengthy journeys will have the elders prepare this enchantment to protect them on the long road."
+(Applied to rings and amulets)
+Rare Augment
++2% Movement Speed
++40 Armor
+10% Reduced Entrapment Duration
+15% Slow Resistance
+Required Player Level: 50
+Item Level: 50
+Faction: Rovers
+Faction: Rovers
+Ulgrim's Guile
+"Nobody knows for sure what the First Blade of the Emperor combines to create this sorcerous powder, but none can question the results."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Rare Augment
+8 Piercing Damage
++25% Pierce Damage
++35% Cold Damage
++22 Offensive Ability
+Required Player Level: 50
+Item Level: 50
+Faction: The Black Legion
+Faction: The Black Legion
+Uroboruuk's Anguish
+"The master Uroboruuk endured unspeakable anguish at the hands of the Arkovians. This horrid enchantment seeks to replicate his suffering."
+(Applied to rings and amulets)
+Rare Augment
++30% Vitality Damage
++30% Chaos Damage
++200 Health
+10% Reflected Damage Reduction
+Required Player Level: 50
+Item Level: 50
+Faction: Order of Death's Vigil
+Faction: Order of Death's Vigil
+Uroboruuk's Path
+"To follow Uroboruuk's path is to seek the path of knowledge, wherever it may lead."
+(Applied to rings and amulets)
+Rare Augment
++30% Aether Damage
++4% Health
++1.2 Energy Regenerated per second
+Required Player Level: 50
+Item Level: 50
+Faction: Order of Death's Vigil
+Faction: Order of Death's Vigil
+Uroboruuk's Word
+"During the first of many lessons, the master Uroboruuk would utter just a single word as he held his arms over a corpse: Rise."
+(Applied to rings and amulets)
+Rare Augment
++30% Cold Damage
++30% Vitality Damage
++18 Defensive Ability
+18% Bleeding Resistance
+Required Player Level: 50
+Item Level: 50
+Faction: Order of Death's Vigil
+Faction: Order of Death's Vigil
+Viloth's Bite
+"The legendary slith matriarch, Viloth, produces a bile of extraordinary toxicity. Barnabas discovered a way to process it into a powder, which he now offers to those willing to fight for Devil's Crossing."
+(Applied to rings and amulets)
+Rare Augment
+80 Poison Damage over 5 Seconds
++30% Poison Damage
+3% Chance to Confuse target for 2 Seconds
+12% Vitality Resistance
+Required Player Level: 50
+Item Level: 50
+Faction: Devil's Crossing
+Faction: Devil's Crossing
+Winter's Chill
+"The essence of winter's chill, a terrible force of change and cleansing for the world, mark of a new beginning."
+(Applied to rings and amulets)
+Rare Augment
++30% Cold Damage
++30% Frostburn Damage
+3% Chance to Freeze target for 2 Seconds
+15% Reduced Freeze Duration
+Required Player Level: 50
+Item Level: 50
+Faction: Rovers
+Faction: Rovers
+Arcane Heart Powder
+"An unstable sorcerous powder that burns so hot it can even damage armor, but its potency makes the risks worth it for many arcane practitioners."
+(Applied to rings and amulets)
+Rare Augment
+12 Fire Damage
++50% Fire Damage
++50% Aether Damage
++50% Burn Damage
++2% Offensive Ability
+Required Player Level: 90
+Item Level: 90
+Faction: Malmouth Resistance
+Faction: Malmouth Resistance
+Ashes of Malmouth
+Arcanum Dust
+"Specially derived for the Gildam Arcanum, this enchantment serves to empower the arcane capabilities of the user."
+(Applied to rings and amulets)
+Rare Augment
++35% to All Damage
++70 Defensive Ability
++2.5 Energy Regenerated per second
+10% Elemental Resistance
+Required Player Level: 90
+Item Level: 90
+Faction: Malmouth Resistance
+Faction: Malmouth Resistance
+Ashes of Malmouth
+Ateph's Command
+"A potent enchanting powder derived from the relics found within the Temple of Ateph that grants the wielder a taste for blood."
+(Applied to rings and amulets)
+Rare Augment
+42 Bleeding Damage over 3 Seconds
++50% Bleeding Damage
+Healing Effects Increased by 8%
+Increases Armor by 8%
+Required Player Level: 90
+Item Level: 90
+Faction: Cult of Bysmiel
+Faction: Cult of Bysmiel
+Forgotten Gods
+Ateph's Glare
+"A potent enchanting powder derived from the relics found within the Temple of Ateph which infuses equipment with a chilling touch."
+(Applied to rings and amulets)
+Rare Augment
+12 Cold Damage
++50% Cold Damage
++50% Frostburn Damage
++250 Health
++2% Defensive Ability
+Required Player Level: 90
+Item Level: 90
+Faction: Cult of Bysmiel
+Faction: Cult of Bysmiel
+Forgotten Gods
+Ateph's Promise
+"A potent enchanting powder derived from the relics found within the Temple of Ateph that shields the wielder from harm."
+(Applied to rings and amulets)
+Rare Augment
++50% Lightning Damage
++50% Electrocute Damage
++350 Health
++3% Defensive Ability
+8% Reduced Petrify Duration
+Required Player Level: 90
+Item Level: 90
+Faction: Cult of Bysmiel
+Faction: Cult of Bysmiel
+Forgotten Gods
+Ateph's Will
+"A potent enchanting powder derived from the relics found within the Temple of Ateph, intended to bolster the bond between master and minion."
+(Applied to rings and amulets)
+Rare Augment
++6% Health
+Increases Armor by 8%
+Bonus to All Pets
++8% Attack Speed
+30% Bleeding Resistance
+Required Player Level: 90
+Item Level: 90
+Faction: Cult of Bysmiel
+Faction: Cult of Bysmiel
+Forgotten Gods
+Basilisk's Bite
+"A powerful toxin extracted from the venom glands of Ugdenbog basilisks."
+(Applied to rings and amulets)
+Rare Augment
++50% Vitality Damage
++50% Bleeding Damage
++50% Vitality Decay
++350 Health
+8% Reduced Stun Duration
+Required Player Level: 90
+Item Level: 90
+Faction: Coven of Ugdenbog
+Faction: Coven of Ugdenbog
+Ashes of Malmouth
+Basilisk's Gaze
+"A powerful toxin extracted from the petrifying eyes of Ugdenbog basilisks."
+(Applied to rings and amulets)
+Rare Augment
++50% Acid Damage
++50% Chaos Damage
++50% Poison Damage
+Increases Armor by 12%
+Increases Armor Absorption by 10%
+Required Player Level: 90
+Item Level: 90
+Faction: Coven of Ugdenbog
+Faction: Coven of Ugdenbog
+Ashes of Malmouth
+Bysmiel's Control
+"A gift from the witch god Bysmiel, perfectly attuned to the minds of minions."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Rare Augment
++250 Health
+Bonus to All Pets
++25% to All Damage
++6% Crit Damage
+Increases Armor by 10%
+Required Player Level: 90
+Item Level: 90
+Faction: Cult of Bysmiel
+Faction: Cult of Bysmiel
+Forgotten Gods
+Bysmiel's Cunning
+"A gift from the witch god Bysmiel to give her servants an edge in physical combat, when retreating into the shadows is not an option."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Rare Augment
+60 Internal Trauma over 5 Seconds
++55% Physical Damage
++55% Pierce Damage
++55% Internal Trauma Damage
++250 Health
+Required Player Level: 90
+Item Level: 90
+Faction: Cult of Bysmiel
+Faction: Cult of Bysmiel
+Forgotten Gods
+Bysmiel's Shroud
+"A gift from the witch god Bysmiel, attuned to the veil that divides the living from the dead."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Rare Augment
+12 Aether Damage
++55% Physical Damage
++55% Aether Damage
++55% Internal Trauma Damage
++30 Offensive Ability
+Required Player Level: 90
+Item Level: 90
+Faction: Cult of Bysmiel
+Faction: Cult of Bysmiel
+Forgotten Gods
+Coven's Bane
+"A vile toxin derived from various plants in Ugdenbog, combined with Coven magic to maximize its efficacy."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Rare Augment
++55% Acid Damage
++55% Vitality Damage
++55% Poison Damage
++55% Vitality Decay
++1.2 Energy Regenerated per second
+10% Chaos Resistance
+Required Player Level: 90
+Item Level: 90
+Faction: Coven of Ugdenbog
+Faction: Coven of Ugdenbog
+Ashes of Malmouth
+Coven's Guile
+"A special enchanting powder crafted by the Coven to sharpen the senses."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Rare Augment
++55% Pierce Damage
++55% Cold Damage
++55% Frostburn Damage
++1.2 Energy Regenerated per second
+10% Elemental Resistance
+Required Player Level: 90
+Item Level: 90
+Faction: Coven of Ugdenbog
+Faction: Coven of Ugdenbog
+Ashes of Malmouth
+Coven's Terror
+"A special poison imbued by Coven hexes to overwhelm the minds of their foes with terrifying visions."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Rare Augment
++55% Physical Damage
++55% Chaos Damage
++55% Internal Trauma Damage
++250 Health
++4% Health
+Required Player Level: 90
+Item Level: 90
+Faction: Coven of Ugdenbog
+Faction: Coven of Ugdenbog
+Ashes of Malmouth
+Coven's Wit
+"A special enchanting powder crafted by the Coven to empower their dark arts."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Rare Augment
++30 Offensive Ability
+Increases Armor by 5%
+Bonus to All Pets
++25% to All Damage
++4% Total Speed
+Required Player Level: 90
+Item Level: 90
+Faction: Coven of Ugdenbog
+Faction: Coven of Ugdenbog
+Ashes of Malmouth
+Dreeg's Foresight
+"A gift from the witch god Dreeg that bestows upon the bearer a mere taste of the Great Guardian's vision for Cairn."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Rare Augment
++55% Elemental Damage
++4% Health
++1.2 Energy Regenerated per second
+10% Chaos Resistance
+Required Player Level: 90
+Item Level: 90
+Faction: Cult of Dreeg
+Faction: Cult of Dreeg
+Forgotten Gods
+Dreeg's Spinedust
+"A gift from the witch god Dreeg derived from one of the Great Guardian's spines, ever dripping with acid."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Rare Augment
+12 Acid Damage
++55% Acid Damage
++55% Poison Damage
++250 Health
+10% Bleeding Resistance
+Required Player Level: 90
+Item Level: 90
+Faction: Cult of Dreeg
+Faction: Cult of Dreeg
+Forgotten Gods
+Dreeg's Terror
+"A gift, or perhaps a curse, from the witch god Dreeg that grants the bearer a fragment of a possible future where the void reigns supreme over all creation."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Rare Augment
+12 Chaos Damage
++55% Vitality Damage
++55% Chaos Damage
++55% Vitality Decay
+10% Pierce Resistance
+Required Player Level: 90
+Item Level: 90
+Faction: Cult of Dreeg
+Faction: Cult of Dreeg
+Forgotten Gods
+Forgefire
+"A favorite of Malmouth smiths, this powder is often used in forges to make the flames burn hotter, but serves equally well as an enchantment."
+(Applied to rings and amulets)
+Rare Augment
+15 Elemental Damage
++50% Aether Damage
++50% Elemental Damage
++70 Defensive Ability
+Required Player Level: 90
+Item Level: 90
+Faction: Malmouth Resistance
+Faction: Malmouth Resistance
+Ashes of Malmouth
+Hammerfall Powder
+"Powder gathered from the cinder remnants of arcane forged steel."
+(Applied to rings and amulets)
+Rare Augment
+10 Piercing Damage
++50% Physical Damage
++50% Pierce Damage
++50% Internal Trauma Damage
++70 Defensive Ability
+Required Player Level: 90
+Item Level: 90
+Faction: Malmouth Resistance
+Faction: Malmouth Resistance
+Ashes of Malmouth
+Heart of Ugdenbog
+"A potent enchantment crafted from the stone hearts of Ugdenbog's mightiest golems."
+(Applied to rings and amulets)
+Rare Augment
+70 Internal Trauma over 5 Seconds
++6% Health
+8% Reduced Petrify Duration
++25% Shield Damage Blocked
+Required Player Level: 90
+Item Level: 90
+Faction: Coven of Ugdenbog
+Faction: Coven of Ugdenbog
+Ashes of Malmouth
+Irrah's Blood
+"A fine enchanting powder derived from the ashes of the pyres within Irrah's temple, said to be infused with celestial blood."
+(Applied to rings and amulets)
+Rare Augment
+45 Vitality Decay Damage over 3 Seconds
++50% Vitality Damage
++50% Vitality Decay
++70 Defensive Ability
+15% Aether Resistance
+Required Player Level: 90
+Item Level: 90
+Faction: Cult of Solael
+Faction: Cult of Solael
+Forgotten Gods
+Irrah's Patience
+"A fine enchanting powder derived from the ashes of the pyres within Irrah's temple that fills the bearer with an unnatural calm."
+(Applied to rings and amulets)
+Rare Augment
++350 Health
++5% Health
+8% Reduced Petrify Duration
+Increases Armor by 6%
+Required Player Level: 90
+Item Level: 90
+Faction: Cult of Solael
+Faction: Cult of Solael
+Forgotten Gods
+Irrah's Soulfire
+"A fine enchanting powder derived from the ashes of the pyres within Irrah's temple, still infused with soul fragments of sacrificial victims."
+(Applied to rings and amulets)
+Rare Augment
+12 Aether Damage
++50% Fire Damage
++50% Aether Damage
++50% Burn Damage
++70 Defensive Ability
+Required Player Level: 90
+Item Level: 90
+Faction: Cult of Solael
+Faction: Cult of Solael
+Forgotten Gods
+Irrah's Venomtongue
+"A fine enchanting powder derived from the ashes of the pyres within Irrah's temple, infused with various toxins found among the flora and fauna of the Korvan Plateau."
+(Applied to rings and amulets)
+Rare Augment
++50% Acid Damage
++50% Poison Damage
++75 Offensive Ability
+Bonus to All Pets
++6% Crit Damage
++60% Poison Damage
+Required Player Level: 90
+Item Level: 90
+Faction: Cult of Solael
+Faction: Cult of Solael
+Forgotten Gods
+Malmouth's Heart
+"A surprisingly potent powder created out of desperation during the initial assault on Malmouth. Though it borrows from the Aether and may ultimately prove to be mankind's undoing, for now it serves a valuable purpose."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Rare Augment
+12 Lightning Damage
++55% Fire Damage
++55% Lightning Damage
++55% Burn Damage
++55% Electrocute Damage
++250 Health
+Required Player Level: 90
+Item Level: 90
+Faction: Malmouth Resistance
+Faction: Malmouth Resistance
+Ashes of Malmouth
+Malmouth's Redemption
+"A potent enchantment crafted by the survivors of Malmouth to defend themselves from the Aetherials."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Rare Augment
+12 Cold Damage
++55% Cold Damage
++55% Frostburn Damage
+10% Aether Resistance
+Increases Armor by 5%
+Required Player Level: 90
+Item Level: 90
+Faction: Malmouth Resistance
+Faction: Malmouth Resistance
+Ashes of Malmouth
+Malmouth's Soul
+"An empowering powder instilled with the iron will of the people."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Rare Augment
+12 Elemental Damage
++55% Aether Damage
++55% Elemental Damage
+10% Pierce Resistance
+Required Player Level: 90
+Item Level: 90
+Faction: Malmouth Resistance
+Faction: Malmouth Resistance
+Ashes of Malmouth
+Malmouth's Will
+"A potent enchantment created by Malmouth's smiths to strengthen their swing, but it serves equally well in battle."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Rare Augment
++55% Physical Damage
++55% Lightning Damage
++55% Internal Trauma Damage
++55% Electrocute Damage
++250 Health
+10% Vitality Resistance
+Required Player Level: 90
+Item Level: 90
+Faction: Malmouth Resistance
+Faction: Malmouth Resistance
+Ashes of Malmouth
+Osyr's Fortitude
+"A dense enchanting powder derived from the desiccated remains of Osyr's priesthood, still blessed by the lost god's word."
+(Applied to rings and amulets)
+Rare Augment
++350 Health
++25% Shield Damage Blocked
+104 Fire Retaliation
++25% to All Retaliation Damage
+Required Player Level: 90
+Item Level: 90
+Faction: Cult of Dreeg
+Faction: Cult of Dreeg
+Forgotten Gods
+Osyr's Guidance
+"A dense enchanting powder derived from the desiccated remains of Osyr's priesthood, attuned to the mastery of conjured creatures."
+(Applied to rings and amulets)
+Rare Augment
++3% Offensive Ability
++1.5 Energy Regenerated per second
+Bonus to All Pets
++6% Crit Damage
++3% Offensive Ability
+Required Player Level: 90
+Item Level: 90
+Faction: Cult of Dreeg
+Faction: Cult of Dreeg
+Forgotten Gods
+Osyr's Temper
+"A dense enchanting powder derived from the desiccated remains of Osyr's priesthood, tainted by a darkness without name."
+(Applied to rings and amulets)
+Rare Augment
+12 Chaos Damage
++50% Chaos Damage
++55 Offensive Ability
++50 Defensive Ability
+Required Player Level: 90
+Item Level: 90
+Faction: Cult of Dreeg
+Faction: Cult of Dreeg
+Forgotten Gods
+Osyr's Wisdom
+"A dense enchanting powder derived from the desiccated remains of Osyr's priesthood, still teeming with raw arcane energies."
+(Applied to rings and amulets)
+Rare Augment
++50% Elemental Damage
++3% Offensive Ability
+15% Vitality Resistance
+15% Bleeding Resistance
+Required Player Level: 90
+Item Level: 90
+Faction: Cult of Dreeg
+Faction: Cult of Dreeg
+Forgotten Gods
+Potent Bysmiel's Control
+"A gift from the witch god Bysmiel, perfectly attuned to the minds of minions."
+(Applied to all two-handed weapons)
+Rare Augment
++550 Health
+Bonus to All Pets
++55% to All Damage
++12% Crit Damage
+Increases Armor by 20%
+Required Player Level: 90
+Item Level: 90
+Faction: Cult of Bysmiel
+Faction: Cult of Bysmiel
+Forgotten Gods
+Potent Bysmiel's Cunning
+"A gift from the witch god Bysmiel to give her servants an edge in physical combat, when retreating into the shadows is not an option."
+(Applied to all two-handed weapons)
+Rare Augment
+125 Internal Trauma over 5 Seconds
++120% Physical Damage
++120% Pierce Damage
++120% Internal Trauma Damage
++550 Health
+Required Player Level: 90
+Item Level: 90
+Faction: Cult of Bysmiel
+Faction: Cult of Bysmiel
+Forgotten Gods
+Potent Bysmiel's Shroud
+"A gift from the witch god Bysmiel, attuned to the veil that divides the living from the dead."
+(Applied to all two-handed weapons)
+Rare Augment
+25 Aether Damage
++120% Physical Damage
++120% Aether Damage
++120% Internal Trauma Damage
++60 Offensive Ability
+Required Player Level: 90
+Item Level: 90
+Faction: Cult of Bysmiel
+Faction: Cult of Bysmiel
+Forgotten Gods
+Potent Coven's Bane
+"A vile toxin derived from various plants in Ugdenbog, combined with Coven magic to maximize its efficacy."
+(Applied to all two-handed weapons)
+Rare Augment
++120% Acid Damage
++120% Vitality Damage
++120% Poison Damage
++120% Vitality Decay
++2.4 Energy Regenerated per second
+20% Chaos Resistance
+Required Player Level: 90
+Item Level: 90
+Faction: Coven of Ugdenbog
+Faction: Coven of Ugdenbog
+Ashes of Malmouth
+Potent Coven's Guile
+"A special enchanting powder crafted by the Coven to sharpen the senses."
+(Applied to all two-handed weapons)
+Rare Augment
++120% Pierce Damage
++120% Cold Damage
++120% Frostburn Damage
++2.4 Energy Regenerated per second
+20% Elemental Resistance
+Required Player Level: 90
+Item Level: 90
+Faction: Coven of Ugdenbog
+Faction: Coven of Ugdenbog
+Ashes of Malmouth
+Potent Coven's Terror
+"A special poison imbued by Coven hexes to overwhelm the minds of their foes with terrifying visions."
+(Applied to all two-handed weapons)
+Rare Augment
++120% Physical Damage
++120% Chaos Damage
++120% Internal Trauma Damage
++550 Health
++8% Health
+Required Player Level: 90
+Item Level: 90
+Faction: Coven of Ugdenbog
+Faction: Coven of Ugdenbog
+Ashes of Malmouth
+Potent Coven's Wit
+"A special enchanting powder crafted by the Coven to empower their dark arts."
+(Applied to all two-handed weapons)
+Rare Augment
++60 Offensive Ability
+Increases Armor by 10%
+Bonus to All Pets
++55% to All Damage
++8% Total Speed
+Required Player Level: 90
+Item Level: 90
+Faction: Coven of Ugdenbog
+Faction: Coven of Ugdenbog
+Ashes of Malmouth
+Potent Dreeg's Foresight
+"A gift from the witch god Dreeg that bestows upon the bearer a mere taste of the Great Guardian's vision for Cairn."
+(Applied to all two-handed weapons)
+Rare Augment
++120% Elemental Damage
++8% Health
++2.4 Energy Regenerated per second
+20% Chaos Resistance
+Required Player Level: 90
+Item Level: 90
+Faction: Cult of Dreeg
+Faction: Cult of Dreeg
+Forgotten Gods
+Potent Dreeg's Spinedust
+"A gift from the witch god Dreeg derived from one of the Great Guardian's spines, ever dripping with acid."
+(Applied to all two-handed weapons)
+Rare Augment
+25 Acid Damage
++120% Acid Damage
++120% Poison Damage
++550 Health
+20% Bleeding Resistance
+Required Player Level: 90
+Item Level: 90
+Faction: Cult of Dreeg
+Faction: Cult of Dreeg
+Forgotten Gods
+Potent Dreeg's Terror
+"A gift, or perhaps a curse, from the witch god Dreeg that grants the bearer a fragment of a possible future where the void reigns supreme over all creation."
+(Applied to all two-handed weapons)
+Rare Augment
+25 Chaos Damage
++120% Vitality Damage
++120% Chaos Damage
++120% Vitality Decay
+20% Pierce Resistance
+Required Player Level: 90
+Item Level: 90
+Faction: Cult of Dreeg
+Faction: Cult of Dreeg
+Forgotten Gods
+Potent Malmouth's Heart
+"A surprisingly potent powder created out of desperation during the initial assault on Malmouth. Though it borrows from the Aether and may ultimately prove to be mankind's undoing, for now it serves a valuable purpose."
+(Applied to all two-handed weapons)
+Rare Augment
+25 Lightning Damage
++120% Fire Damage
++120% Lightning Damage
++120% Burn Damage
++120% Electrocute Damage
++550 Health
+Required Player Level: 90
+Item Level: 90
+Faction: Malmouth Resistance
+Faction: Malmouth Resistance
+Ashes of Malmouth
+Potent Malmouth's Redemption
+"A potent enchantment crafted by the survivors of Malmouth to defend themselves from the Aetherials."
+(Applied to all two-handed weapons)
+Rare Augment
+25 Cold Damage
++120% Cold Damage
++120% Frostburn Damage
+20% Aether Resistance
+Increases Armor by 10%
+Required Player Level: 90
+Item Level: 90
+Faction: Malmouth Resistance
+Faction: Malmouth Resistance
+Ashes of Malmouth
+Potent Malmouth's Soul
+"An empowering powder instilled with the iron will of the people."
+(Applied to all two-handed weapons)
+Rare Augment
+25 Elemental Damage
++120% Aether Damage
++120% Elemental Damage
+20% Pierce Resistance
+Required Player Level: 90
+Item Level: 90
+Faction: Malmouth Resistance
+Faction: Malmouth Resistance
+Ashes of Malmouth
+Potent Malmouth's Will
+"A potent enchantment created by Malmouth's smiths to strengthen their swing, but it serves equally well in battle."
+(Applied to all two-handed weapons)
+Rare Augment
++120% Physical Damage
++120% Lightning Damage
++120% Internal Trauma Damage
++120% Electrocute Damage
++550 Health
+20% Vitality Resistance
+Required Player Level: 90
+Item Level: 90
+Faction: Malmouth Resistance
+Faction: Malmouth Resistance
+Ashes of Malmouth
+Potent Ravager's Breath
+"A gift bestowed by the Ravager upon his cursed worshippers. Its touch inflicts grievous wounds and blisters upon flesh."
+(Applied to all two-handed weapons)
+Rare Augment
+125 Poison Damage over 5 Seconds
++120% Pierce Damage
++120% Acid Damage
++120% Poison Damage
++550 Health
+Required Player Level: 90
+Item Level: 90
+Faction: Barrowholm
+Faction: Barrowholm
+Ashes of Malmouth
+Potent Ravager's Eye
+"A gift bestowed by the Ravager upon his cursed worshippers. It inspires unmatched loyalty."
+(Applied to all two-handed weapons)
+Rare Augment
++8% Health
++6% Defensive Ability
+Bonus to All Pets
++55% to All Damage
++6% Offensive Ability
+Required Player Level: 90
+Item Level: 90
+Faction: Barrowholm
+Faction: Barrowholm
+Ashes of Malmouth
+Potent Ravager's Harvest
+"A gift bestowed by the Ravager upon his cursed worshippers. It instills an insatiable hunger."
+(Applied to all two-handed weapons)
+Rare Augment
+25 Vitality Damage
++120% Vitality Damage
++120% Bleeding Damage
++120% Vitality Decay
++550 Health
+Required Player Level: 90
+Item Level: 90
+Faction: Barrowholm
+Faction: Barrowholm
+Ashes of Malmouth
+Potent Ravager's Rage
+"A gift bestowed by the Ravager upon his cursed worshippers. It evokes uncontrollable rage."
+(Applied to all two-handed weapons)
+Rare Augment
+25 Fire Damage
++120% Fire Damage
++120% Aether Damage
++120% Burn Damage
+20% Vitality Resistance
+Required Player Level: 90
+Item Level: 90
+Faction: Barrowholm
+Faction: Barrowholm
+Ashes of Malmouth
+Potent Solael's Glare
+"A gift from the witch god Solael, infused with the essence of the Eldritch Flame's will."
+(Applied to all two-handed weapons)
+Rare Augment
++120% Cold Damage
++120% Lightning Damage
++120% Frostburn Damage
++120% Electrocute Damage
++550 Health
+20% Pierce Resistance
+Required Player Level: 90
+Item Level: 90
+Faction: Cult of Solael
+Faction: Cult of Solael
+Forgotten Gods
+Potent Solael's Vision
+"A gift from the witch god Solael, promising untold destruction upon his enemies."
+(Applied to all two-handed weapons)
+Rare Augment
++120% Fire Damage
++120% Lightning Damage
++120% Burn Damage
++120% Electrocute Damage
++550 Health
+20% Vitality Resistance
+Required Player Level: 90
+Item Level: 90
+Faction: Cult of Solael
+Faction: Cult of Solael
+Forgotten Gods
+Potent Solael's Voracity
+"A gift from the witch god Solael, granting the bearer a taste of the Eldritch Flame's endless hunger."
+(Applied to all two-handed weapons)
+Rare Augment
+25 Piercing Damage
++120% Pierce Damage
++120% Bleeding Damage
++550 Health
+Required Player Level: 90
+Item Level: 90
+Faction: Cult of Solael
+Faction: Cult of Solael
+Forgotten Gods
+Ravager's Breath
+"A gift bestowed by the Ravager upon his cursed worshippers. Its touch inflicts grievous wounds and blisters upon flesh."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Rare Augment
+60 Poison Damage over 5 Seconds
++55% Pierce Damage
++55% Acid Damage
++55% Poison Damage
++250 Health
+Required Player Level: 90
+Item Level: 90
+Faction: Barrowholm
+Faction: Barrowholm
+Ashes of Malmouth
+Ravager's Eye
+"A gift bestowed by the Ravager upon his cursed worshippers. It inspires unmatched loyalty."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Rare Augment
++4% Health
++3% Defensive Ability
+Bonus to All Pets
++25% to All Damage
++3% Offensive Ability
+Required Player Level: 90
+Item Level: 90
+Faction: Barrowholm
+Faction: Barrowholm
+Ashes of Malmouth
+Ravager's Harvest
+"A gift bestowed by the Ravager upon his cursed worshippers. It instills an insatiable hunger."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Rare Augment
+12 Vitality Damage
++55% Vitality Damage
++55% Bleeding Damage
++55% Vitality Decay
++250 Health
+Required Player Level: 90
+Item Level: 90
+Faction: Barrowholm
+Faction: Barrowholm
+Ashes of Malmouth
+Ravager's Rage
+"A gift bestowed by the Ravager upon his cursed worshippers. It evokes uncontrollable rage."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Rare Augment
+12 Fire Damage
++55% Fire Damage
++55% Aether Damage
++55% Burn Damage
+10% Vitality Resistance
+Required Player Level: 90
+Item Level: 90
+Faction: Barrowholm
+Faction: Barrowholm
+Ashes of Malmouth
+Rotgut Venom
+"A deadly poison crafted by the nightblades, many of the necessary materials are only available from Malmouth."
+(Applied to rings and amulets)
+Rare Augment
++50% Acid Damage
++50% Poison Damage
++70 Defensive Ability
++2.5 Energy Regenerated per second
+Bonus to All Pets
++8% Attack Speed
+Required Player Level: 90
+Item Level: 90
+Faction: Malmouth Resistance
+Faction: Malmouth Resistance
+Ashes of Malmouth
+Skyshard Powder
+"Originally created by the Arcanist Master Trozan, the Coven has made great use of the arcane potential of sky borne objects."
+(Applied to rings and amulets)
+Rare Augment
+12 Lightning Damage
++50% Cold Damage
++50% Lightning Damage
++50% Frostburn Damage
++50% Electrocute Damage
++75 Offensive Ability
+Required Player Level: 90
+Item Level: 90
+Faction: Coven of Ugdenbog
+Faction: Coven of Ugdenbog
+Ashes of Malmouth
+Solael's Glare
+"A gift from the witch god Solael, infused with the essence of the Eldritch Flame's will."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Rare Augment
++55% Cold Damage
++55% Lightning Damage
++55% Frostburn Damage
++55% Electrocute Damage
++250 Health
+10% Pierce Resistance
+Required Player Level: 90
+Item Level: 90
+Faction: Cult of Solael
+Faction: Cult of Solael
+Forgotten Gods
+Solael's Vision
+"A gift from the witch god Solael, promising untold destruction upon his enemies."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Rare Augment
++55% Fire Damage
++55% Lightning Damage
++55% Burn Damage
++55% Electrocute Damage
++250 Health
+10% Vitality Resistance
+Required Player Level: 90
+Item Level: 90
+Faction: Cult of Solael
+Faction: Cult of Solael
+Forgotten Gods
+Solael's Voracity
+"A gift from the witch god Solael, granting the bearer a taste of the Eldritch Flame's endless hunger."
+(Applied to all one-handed weapons, shields and caster off-hands)
+Rare Augment
+12 Piercing Damage
++55% Pierce Damage
++55% Bleeding Damage
++250 Health
+Required Player Level: 90
+Item Level: 90
+Faction: Cult of Solael
+Faction: Cult of Solael
+Forgotten Gods
+Steelbloom Powder
+"An enchanting powder derived from the unusual Steelbloom, a flower found to have large quantities of metallic particles in its stem that it draws from the earth through a deep root structure."
+(Applied to rings and amulets)
+Rare Augment
+12 Physical Damage
++50% Physical Damage
++50% Internal Trauma Damage
++50% Bleeding Damage
++2% Offensive Ability
+Required Player Level: 90
+Item Level: 90
+Faction: Malmouth Resistance
+Faction: Malmouth Resistance
+Ashes of Malmouth
+Sylvarria's Essence
+"Legends speak of a mythical entity growing within Ugdenbog whose roots span the entirety of the swamp. So named after this creature, the enchantment derives its properties from many plants in the region."
+(Applied to rings and amulets)
+Rare Augment
++3% Offensive Ability
+15% Poison & Acid Resistance
+Bonus to All Pets
++4% Offensive Ability
+30% Poison & Acid Resistance
+Required Player Level: 90
+Item Level: 90
+Faction: Coven of Ugdenbog
+Faction: Coven of Ugdenbog
+Ashes of Malmouth
+Typhoon Powder
+"The power of a devastating typhoon, trapped in a sorcerous powder."
+(Applied to rings and amulets)
+Rare Augment
++50% Pierce Damage
++50% Lightning Damage
++50% Electrocute Damage
++350 Health
++70 Defensive Ability
+Required Player Level: 90
+Item Level: 90
+Faction: Malmouth Resistance
+Faction: Malmouth Resistance
+Ashes of Malmouth
+Witch's Black Flame
+"Often associated with rituals performed by the cults of the three Witch Gods, the Coven often makes use of this vile powder when a ritual calls for it."
+(Applied to rings and amulets)
+Rare Augment
++50% Fire Damage
++50% Chaos Damage
++50% Burn Damage
++350 Health
+8% Reduced Stun Duration
+Required Player Level: 90
+Item Level: 90
+Faction: Coven of Ugdenbog
+Faction: Coven of Ugdenbog
+Ashes of Malmouth
+Wraith's Scream
+"Through a terrifying binding ritual, a Coven hexxer is capable of trapping and disintegrating an Ugdenbog wraith."
+(Applied to rings and amulets)
+Rare Augment
+12 Vitality Damage
++50% Cold Damage
++50% Vitality Damage
++50% Frostburn Damage
++50% Vitality Decay
++75 Offensive Ability
+Required Player Level: 90
+Item Level: 90
+Faction: Coven of Ugdenbog
+Faction: Coven of Ugdenbog
+Ashes of Malmouth
+Emblem of Dreeg's Vector
+"A formidable symbol of power found across the far reaches of Cairn."
+(Applied to Medals)
+Epic Augment
+Granted Skills
+Dreeg's Vector (Granted by Item)
+Spontaneously transport yourself towards a target destination, spreading Dreeg's vile poisons to nearby foes.
+70 Energy Cost
+5.5 Second Skill Recharge
+5 Meter Target Area
+14 Meter Range
+220 Acid Damage
+Required Player Level: 33
+Item Level: 50
+Blueprint: Emblem of Dreeg's Vector
+Forgotten Gods
+Emblem of Korvan Swiftness
+"A formidable symbol of power found across the far reaches of Cairn."
+(Applied to Medals)
+Epic Augment
+Granted Skills
+Korvan Swiftness (Granted by Item)
+Leap towards the target point with burning agility.
+40 Energy Cost
+4 Second Skill Recharge
+3.5 Meter Target Area
+17 Meter Range
+200% Weapon Damage
+220 Fire Damage
+Required Player Level: 33
+Item Level: 50
+Blueprint: Emblem of Korvan Swiftness
+Forgotten Gods
+Emblem of Rahn's Might
+"A formidable symbol of power found across the far reaches of Cairn."
+(Applied to Medals)
+Epic Augment
+Granted Skills
+Rahn's Might (Granted by Item)
+Charge valiantly through your foes towards a target destination with a prayer to Rahn on your lips. When used with a shield, the shield's damage is added.
+45 Energy Cost
+3 Second Skill Recharge
+2 Meter Target Area
+15 Meter Range
+205% Weapon Damage
+250-325 Lightning Damage
+Stun target for 0.5 Seconds
++300% Movement Speed
+Required Player Level: 33
+Item Level: 50
+Blueprint: Emblem of Rahn's Might
+Forgotten Gods
+Glyph of Dreeg's Vector
+"A formidable symbol of power found across the far reaches of Cairn."
+(Applied to Medals)
+Epic Augment
+Granted Skills
+Empowered Dreeg's Vector (Granted by Item)
+Spontaneously transport yourself towards a target destination, spreading Dreeg's vile poisons to nearby foes.
+88 Energy Cost
+5.5 Second Skill Recharge
+5 Meter Target Area
+14 Meter Range
+250 Acid Damage
+500 Poison Damage over 2 Seconds
+120 Reduced target's Offensive Ability for 3 Seconds
+Required Player Level: 33
+Item Level: 50
+Blueprint: Glyph of Dreeg's Vector
+Forgotten Gods
+Glyph of Korvan Swiftness
+"A formidable symbol of power found across the far reaches of Cairn."
+(Applied to Medals)
+Epic Augment
+Granted Skills
+Empowered Korvan Swiftness (Granted by Item)
+Leap towards the target point with burning agility.
+50 Energy Cost
+4 Second Skill Recharge
+3.5 Meter Target Area
+17 Meter Range
+215% Weapon Damage
+250 Fire Damage
+750 Burn Damage over 3 Seconds
+10% Reduced target's Damage for 3 Seconds
+Required Player Level: 33
+Item Level: 50
+Blueprint: Glyph of Korvan Swiftness
+Forgotten Gods
+Glyph of Rahn's Might
+"A formidable symbol of power found across the far reaches of Cairn."
+(Applied to Medals)
+Epic Augment
+Granted Skills
+Empowered Rahn's Might (Granted by Item)
+Charge valiantly through your foes towards a target destination with a prayer to Rahn on your lips. When used with a shield, the shield's damage is added.
+55 Energy Cost
+3 Second Skill Recharge
+2 Meter Target Area
+15 Meter Range
+215% Weapon Damage
+280-350 Lightning Damage
+900 Electrocute Damage over 3 Seconds
+Stun target for 0.7 Seconds
++300% Movement Speed
+Required Player Level: 33
+Item Level: 50
+Blueprint: Glyph of Rahn's Might
+Forgotten Gods
+Rune of Dreeg's Vector
+"A formidable symbol of power found across the far reaches of Cairn."
+(Applied to Medals)
+Epic Augment
+Granted Skills
+Masterful Dreeg's Vector (Granted by Item)
+Spontaneously transport yourself towards a target destination, spreading Dreeg's vile poisons to nearby foes.
+100 Energy Cost
+5.5 Second Skill Recharge
+5 Meter Target Area
+14 Meter Range
+300 Acid Damage
+600 Poison Damage over 2 Seconds
++25% Crit Damage
+150 Reduced target's Offensive Ability for 3 Seconds
+Required Player Level: 33
+Item Level: 50
+Blueprint: Rune of Dreeg's Vector
+Forgotten Gods
+Rune of Korvan Swiftness
+"A formidable symbol of power found across the far reaches of Cairn."
+(Applied to Medals)
+Epic Augment
+Granted Skills
+Masterful Korvan Swiftness (Granted by Item)
+Leap towards the target point with burning agility.
+66 Energy Cost
+4 Second Skill Recharge
+3.5 Meter Target Area
+17 Meter Range
+220% Weapon Damage
+300 Fire Damage
+840 Burn Damage over 3 Seconds
++25% Crit Damage
+15% Reduced target's Damage for 3 Seconds
+Required Player Level: 33
+Item Level: 50
+Blueprint: Rune of Korvan Swiftness
+Forgotten Gods
+Rune of Rahn's Might
+"A formidable symbol of power found across the far reaches of Cairn."
+(Applied to Medals)
+Epic Augment
+Granted Skills
+Masterful Rahn's Might (Granted by Item)
+Charge valiantly through your foes towards a target destination with a prayer to Rahn on your lips. When used with a shield, the shield's damage is added.
+60 Energy Cost
+3 Second Skill Recharge
+2 Meter Target Area
+15 Meter Range
+220% Weapon Damage
+300-380 Lightning Damage
+975 Electrocute Damage over 3 Seconds
++25% Crit Damage
+Stun target for 0.8 Seconds
++300% Movement Speed
+Required Player Level: 33
+Item Level: 50
+Blueprint: Rune of Rahn's Might
+Forgotten Gods
+Glyph of Arcane Insights
+"A formidable symbol of power found across the far reaches of Cairn."
+(Applied to Medals)
+Epic Augment
+Granted Skills
+Arcane Rift (Granted by Item)
+Tear through reality to instantly transport yourself towards a target destination and erupt with arcane energies.
+88 Energy Cost
+5.5 Second Skill Recharge
+5.5 Meter Target Area
+14 Meter Range
+250 Lightning Damage
+250 Aether Damage
++35% Crit Damage
+Required Player Level: 50
+Item Level: 50
+Blueprint: Glyph of Arcane Insights
+Forgotten Gods
+Glyph of Ashen Wastes
+"A formidable symbol of power found across the far reaches of Cairn."
+(Applied to Medals)
+Epic Augment
+Granted Skills
+Chaos Strike (Granted by Item)
+Tear through the void to strike at a target foe with the destructive power of the chaos. Requires a melee weapon.
+66 Energy Cost
+3 Second Skill Recharge
+300% Weapon Damage
+350 Vitality Damage
+350 Chaos Damage
+12% Reduced target's Damage for 3 Seconds
++400% Movement Speed
+Required Player Level: 50
+Item Level: 50
+Blueprint: Glyph of Ashen Wastes
+Forgotten Gods
+Glyph of Burning Rifts
+"A formidable symbol of power found across the far reaches of Cairn."
+(Applied to Medals)
+Epic Augment
+Granted Skills
+Burning Rift (Granted by Item)
+Tear a burning hole in reality to instantly transport yourself towards a target destination and erupt with flames from the Chthonic void.
+88 Energy Cost
+5.5 Second Skill Recharge
+4.5 Meter Target Area
+14 Meter Range
+180 Fire Damage
+180 Chaos Damage
+900 Burn Damage over 3 Seconds
+Required Player Level: 50
+Item Level: 50
+Blueprint: Glyph of Burning Rifts
+Forgotten Gods
+Glyph of Disorder
+"A formidable symbol of power found across the far reaches of Cairn."
+(Applied to Medals)
+Epic Augment
+Granted Skills
+Disorder (Granted by Item)
+Reality bends to your will as you instantly transport yourself towards a target destination.
+88 Energy Cost
+3.6 Second Skill Recharge
+16 Meter Range
+Required Player Level: 50
+Item Level: 50
+Blueprint: Glyph of Disorder
+Forgotten Gods
+Glyph of Ghastly Retreats
+"A formidable symbol of power found across the far reaches of Cairn."
+(Applied to Medals)
+Epic Augment
+Granted Skills
+Ghastly Retreat (Granted by Item)
+Disengage away from battle as if a restless spirit, confounding the foes you leave behind with the veil of death.
+45 Energy Cost
+4 Second Skill Recharge
+5 Meter Target Area
+16 Meter Range
+350 Aether Damage
+25% of Attack Damage converted to Health
+Stun target for 1 Second
+12% Reduced target's Damage for 5 Seconds
+Required Player Level: 50
+Item Level: 50
+Blueprint: Glyph of Ghastly Retreats
+Forgotten Gods
+Glyph of Incorporeal Winds
+"A formidable symbol of power found across the far reaches of Cairn."
+(Applied to Medals)
+Epic Augment
+Granted Skills
+Incorporeal Winds (Granted by Item)
+Become as if a ghost, charging through your foes towards the target destination as if they were not there. Your ghostly passage leaves all you've touched unsettled. When used with a shield, the shield's damage is added.
+50 Energy Cost
+3 Second Skill Recharge
+2 Meter Target Area
+15 Meter Range
+220% Weapon Damage
+250 Physical Damage
+250 Aether Damage
+Stun target for 0.5 Seconds
+16% Chance for target to Fumble attacks for 3 Seconds
++300% Movement Speed
+Required Player Level: 50
+Item Level: 50
+Blueprint: Glyph of Incorporeal Winds
+Forgotten Gods
+Glyph of Seismic Strength
+"A formidable symbol of power found across the far reaches of Cairn."
+(Applied to Medals)
+Epic Augment
+Granted Skills
+Seismic Leap (Granted by Item)
+Leap towards a target destination and shatter the very earth around you.
+55 Energy Cost
+4 Second Skill Recharge
+4 Meter Target Area
+17 Meter Range
+215% Weapon Damage
+30% of Retaliation Damage added to Attack
+250 Physical Damage
+600 Internal Trauma over 3 Seconds
+600 Bleeding Damage over 3 Seconds
+Stun target for 0.8 Seconds
+Required Player Level: 50
+Item Level: 50
+Blueprint: Glyph of Seismic Strength
+Forgotten Gods
+Glyph of Spontaneous Blades
+"A formidable symbol of power found across the far reaches of Cairn."
+(Applied to Medals)
+Epic Augment
+Granted Skills
+Bladed Rift (Granted by Item)
+Vanish into thin air and instantly transport yourself towards a target destination to unleash a flurry of blades upon your foes.
+88 Energy Cost
+5.5 Second Skill Recharge
+3.5 Meter Target Area
+14 Meter Range
+250 Piercing Damage
+140 Reduced target's Defensive Ability for 3 Seconds
+Required Player Level: 50
+Item Level: 50
+Blueprint: Glyph of Spontaneous Blades
+Forgotten Gods
+Glyph of Sudden Strikes
+"A formidable symbol of power found across the far reaches of Cairn."
+(Applied to Medals)
+Epic Augment
+Granted Skills
+Sudden Strike (Granted by Item)
+Strike a target foe with sudden crushing force. Requires a melee weapon.
+66 Energy Cost
+3 Second Skill Recharge
+90 Degree Attack Arc
+3 Target Maximum
+300% Weapon Damage
+450-700 Physical Damage
++40% Crit Damage
++400% Movement Speed
+Required Player Level: 50
+Item Level: 50
+Blueprint: Glyph of Sudden Strikes
+Forgotten Gods
+Glyph of the Elusive Assassin
+"A formidable symbol of power found across the far reaches of Cairn."
+(Applied to Medals)
+Epic Augment
+Granted Skills
+Assassin's Evasion (Granted by Item)
+Dexterously disengage away from battle, but not before shredding your foes with vicious blades.
+45 Energy Cost
+4 Second Skill Recharge
+5 Meter Target Area
+16 Meter Range
+200 Piercing Damage
+800 Bleeding Damage over 2 Seconds
+Confuse target for 2 Seconds
+12% Reduced target's Damage for 5 Seconds
+24% Chance for target to Fumble attacks for 2 Seconds
+Required Player Level: 50
+Item Level: 50
+Blueprint: Glyph of the Elusive Assassin
+Forgotten Gods
+Glyph of the Northern Ram
+"A formidable symbol of power found across the far reaches of Cairn."
+(Applied to Medals)
+Epic Augment
+Granted Skills
+Ramming Speed (Granted by Item)
+Ram through your foes towards the target destination, scattering their ranks and chilling them to the bone. When used with a shield, the shield's damage is added.
+50 Energy Cost
+3 Second Skill Recharge
+2 Meter Target Area
+15 Meter Range
+220% Weapon Damage
+25% of Retaliation Damage added to Attack
+250 Piercing Damage
+250 Cold Damage
+Knockdown target for 0.5 Seconds
+20% Slow target for 3 Seconds
++300% Movement Speed
+Required Player Level: 50
+Item Level: 50
+Blueprint: Glyph of the Northern Ram
+Forgotten Gods
+Glyph of the Pouncing Manticore
+"A formidable symbol of power found across the far reaches of Cairn."
+(Applied to Medals)
+Epic Augment
+Granted Skills
+Manticore Pounce (Granted by Item)
+Pounce through the air towards a target destination and spray caustic acid upon all nearby.
+55 Energy Cost
+4 Second Skill Recharge
+4.5 Meter Target Area
+17 Meter Range
+215% Weapon Damage
+200 Piercing Damage
+200 Acid Damage
+130 Reduced target's Offensive Ability for 5 Seconds
+Required Player Level: 50
+Item Level: 50
+Blueprint: Glyph of the Pouncing Manticore
+Forgotten Gods
+Glyph of the Ravenous Wendigo
+"A formidable symbol of power found across the far reaches of Cairn."
+(Applied to Medals)
+Epic Augment
+Granted Skills
+Wendigo Rush (Granted by Item)
+Claw through your foes towards the target destination, leaving all in your path bleeding and broken. When used with a shield, the shield's damage is added.
+50 Energy Cost
+3 Second Skill Recharge
+2 Meter Target Area
+15 Meter Range
+220% Weapon Damage
+250 Vitality Damage
+12% of Attack Damage converted to Health
+900 Bleeding Damage over 3 Seconds
+Stun target for 0.5 Seconds
++300% Movement Speed
+Required Player Level: 50
+Item Level: 50
+Blueprint: Glyph of the Ravenous Wendigo
+Forgotten Gods
+Glyph of the Rising Phoenix
+"A formidable symbol of power found across the far reaches of Cairn."
+(Applied to Medals)
+Epic Augment
+Granted Skills
+Phoenix Rise (Granted by Item)
+Rise from the battle like a phoenix, disengaging away from combat in blazing glory.
+45 Energy Cost
+4 Second Skill Recharge
+5 Meter Target Area
+16 Meter Range
+1200 Burn Damage over 3 Seconds
+180 Reduced target's Offensive Ability for 3 Seconds
+12% Reduced target's Damage for 5 Seconds
+Required Player Level: 50
+Item Level: 50
+Blueprint: Glyph of the Rising Phoenix
+Forgotten Gods
+Glyph of the Scorpion Tail
+"A formidable symbol of power found across the far reaches of Cairn."
+(Applied to Medals)
+Epic Augment
+Granted Skills
+Scorpion Strike (Granted by Item)
+Charge a target and impale them like a vicious scorpion. Requires a melee weapon. When used with a shield, the shield's damage is added.
+66 Energy Cost
+3 Second Skill Recharge
+90 Degree Attack Arc
+2 Target Maximum
+300% Weapon Damage
+400 Acid Damage
+1050 Poison Damage over 3 Seconds
+Stun target for 1.5 Seconds
+80 Reduced target's Defensive Ability for 3 Seconds
++250% Movement Speed
+Required Player Level: 50
+Item Level: 50
+Blueprint: Glyph of the Scorpion Tail
+Forgotten Gods
+Glyph of the Stormclap
+"A formidable symbol of power found across the far reaches of Cairn."
+(Applied to Medals)
+Epic Augment
+Granted Skills
+Stormclap (Granted by Item)
+Leap towards a target destination with a thunderous clap.
+55 Energy Cost
+4 Second Skill Recharge
+4.5 Meter Target Area
+17 Meter Range
+215% Weapon Damage
+200 Cold Damage
+60-340 Lightning Damage
+750 Electrocute Damage over 3 Seconds
++15% Crit Damage
+Required Player Level: 50
+Item Level: 50
+Blueprint: Glyph of the Stormclap
+Forgotten Gods
+Glyph of the Winter Fox
+"A formidable symbol of power found across the far reaches of Cairn."
+(Applied to Medals)
+Epic Augment
+Granted Skills
+Outfox (Granted by Item)
+Like a wily snow fox, disengage away from combat in a flash of frost that leaves your enemies chilled.
+45 Energy Cost
+4 Second Skill Recharge
+5 Meter Target Area
+16 Meter Range
+1200 Frostburn Damage over 3 Seconds
+Freeze target for 3 Seconds
+40% Slow target for 3 Seconds
+12% Reduced target's Damage for 5 Seconds
+Required Player Level: 50
+Item Level: 50
+Blueprint: Glyph of the Winter Fox
+Forgotten Gods
+Glyph of Wayward Souls
+"A formidable symbol of power found across the far reaches of Cairn."
+(Applied to Medals)
+Epic Augment
+Granted Skills
+Soul Strike (Granted by Item)
+Charge a target foe and unmake them with the will of the ravenous dead. Requires a melee weapon. When used with a shield, the shield's damage is added.
+66 Energy Cost
+3 Second Skill Recharge
+90 Degree Attack Arc
+2 Target Maximum
+300% Weapon Damage
+400 Vitality Damage
+20% of Attack Damage converted to Health
+700 Vitality Decay Damage over 2 Seconds
+Stun target for 1.5 Seconds
++250% Movement Speed
+Required Player Level: 50
+Item Level: 50
+Blueprint: Glyph of Wayward Souls
+Forgotten Gods
+Bladeward Powder
+"Sorcerous powder devised by Sahdina to protect the defenders of Devil's Crossing from physical altercations."
+(Applied to all armor)
+Epic Augment
+12% Pierce Resistance
+Required Player Level: 70
+Item Level: 70
+Faction: Devil's Crossing
+Faction: Devil's Crossing
+Demonbane Powder
+"Sorcerous powder created by Chosen priests to protect their allies against the vile denizens of the Chthonic Void."
+(Applied to all armor)
+Epic Augment
+9% Vitality Resistance
+9% Chaos Resistance
+Required Player Level: 70
+Item Level: 70
+Faction: Kymon's Chosen
+Faction: Kymon's Chosen
+Flameweave Powder
+"Sorcerous powder derived from the sun-bleached bones of Manticores, often used to strengthen armor against flame."
+(Applied to all armor)
+Epic Augment
+9% Pierce Resistance
+12% Fire Resistance
+Required Player Level: 70
+Item Level: 70
+Faction: Homestead
+Faction: Homestead
+Kingsguard Powder
+"Sorcerous powder aptly named for its use on the wardrobes of royalty, but it finds equal value in combat."
+(Applied to all armor)
+Epic Augment
+9% Pierce Resistance
+12% Poison & Acid Resistance
+Required Player Level: 70
+Item Level: 70
+Faction: The Black Legion
+Faction: The Black Legion
+Kymon's Blessing
+"Sorcerous powder blessed by Father Kymon to ward his followers against the scorching flames of Empyrion."
+(Applied to all armor)
+Epic Augment
+18% Fire Resistance
+Required Player Level: 70
+Item Level: 70
+Faction: Kymon's Chosen
+Faction: Kymon's Chosen
+Kymon's Conduit
+"Sorcerous powder created by Father Kymon to channel lightning away from the wearer's heart."
+(Applied to all armor)
+Epic Augment
+18% Lightning Resistance
+Required Player Level: 70
+Item Level: 70
+Faction: Kymon's Chosen
+Faction: Kymon's Chosen
+Mankind's Vigil
+"Sorcerous powder crafted by the Legion's arcanists to ward their soldiers against the invading forces of the Aetherials and the Chthonians."
+(Applied to all armor)
+Epic Augment
+9% Aether Resistance
+9% Chaos Resistance
+Required Player Level: 70
+Item Level: 70
+Faction: The Black Legion
+Faction: The Black Legion
+Mogdrogen's Touch
+"A blessing from the beast god to protect his followers from the ravages of nature."
+(Applied to all armor)
+Epic Augment
+12% Poison & Acid Resistance
+9% Vitality Resistance
+Required Player Level: 70
+Item Level: 70
+Faction: Devil's Crossing
+Faction: Devil's Crossing
+Nightshade Powder
+"Powder derived from the blue petals of the Asterkarn Nightshade, a flower that only blossoms in the light of the moon."
+(Applied to all armor)
+Epic Augment
+9% Pierce Resistance
+12% Cold Resistance
+Required Player Level: 70
+Item Level: 70
+Faction: Rovers
+Faction: Rovers
+Outcast's Elemental Scales
+"The Outcast's specially crafted powder wards the user against the contrasting forces of fire and ice."
+(Applied to all armor)
+Epic Augment
+12% Fire Resistance
+12% Cold Resistance
+Required Player Level: 70
+Item Level: 70
+Faction: The Outcast
+Faction: The Outcast
+Outcast's Skyguard Powder
+"The Outcast's specially crafted powder wards the user against sky-powered sorcery."
+(Applied to all armor)
+Epic Augment
+12% Cold Resistance
+12% Lightning Resistance
+Required Player Level: 70
+Item Level: 70
+Faction: The Outcast
+Faction: The Outcast
+Outcast's Warding Powder
+"The Outcast's exceptional mastery over the arcane allows her to create powders that can ward even the dimmest man against the destructive forces of the Aether."
+(Applied to all armor)
+Epic Augment
+12% Aether Resistance
+Required Player Level: 70
+Item Level: 70
+Faction: The Outcast
+Faction: The Outcast
+Solarstorm Powder
+"This specially crafted powder can only be mixed during a solar eclipse, lest it loses its arcane properties and becomes no more than ash."
+(Applied to all armor)
+Epic Augment
+12% Fire Resistance
+12% Lightning Resistance
+Required Player Level: 70
+Item Level: 70
+Faction: Homestead
+Faction: Homestead
+Spellward Powder
+"Experienced arcanists within the ranks of the Order have crafted this powder to protect their allies from arcane rituals."
+(Applied to all armor)
+Epic Augment
+9% Vitality Resistance
+9% Aether Resistance
+Required Player Level: 70
+Item Level: 70
+Faction: Order of Death's Vigil
+Faction: Order of Death's Vigil
+Spiritguard Powder
+"Sorcerous powder derived from the ashes of a fallen necromancer."
+(Applied to all armor)
+Epic Augment
+12% Vitality Resistance
+Required Player Level: 70
+Item Level: 70
+Faction: Order of Death's Vigil
+Faction: Order of Death's Vigil
+Venomguard Powder
+"A Rover powder derived from several deadly toxins originating from both beast and plant."
+(Applied to all armor)
+Epic Augment
+18% Poison & Acid Resistance
+Required Player Level: 70
+Item Level: 70
+Faction: Rovers
+Faction: Rovers
+Wraithtouch Powder
+"Sorcerous powder infused with the essence of a captured wraith."
+(Applied to all armor)
+Epic Augment
+18% Cold Resistance
+Required Player Level: 70
+Item Level: 70
+Faction: Order of Death's Vigil
+Faction: Order of Death's Vigil
+Bysmiel's Desert Barb
+"A gift from the witch god Bysmiel, the Schemer's deadly kiss infused within the enchanting powder."
+(Applied to all armor)
+Epic Augment
+15% Pierce Resistance
+Required Player Level: 90
+Item Level: 90
+Faction: Cult of Bysmiel
+Faction: Cult of Bysmiel
+Forgotten Gods
+Bysmiel's Silversand
+"A gift from the witch god Bysmiel, an incredibly fine silver powder often used in illusions, but also handy for protective wards."
+(Applied to all armor)
+Epic Augment
++16 Defensive Ability
++16 Health Regenerated per second
+Required Player Level: 90
+Item Level: 90
+Faction: Cult of Bysmiel
+Faction: Cult of Bysmiel
+Forgotten Gods
+Bysmiel's Veiltouch
+"A gift from the witch god Bysmiel, a powder magically linked to the very veil that divides the living and the dead."
+(Applied to all armor)
+Epic Augment
+12% Poison & Acid Resistance
+10% Aether Resistance
+Required Player Level: 90
+Item Level: 90
+Faction: Cult of Bysmiel
+Faction: Cult of Bysmiel
+Forgotten Gods
+Coven Black Ash
+"Ashes infused by the Coven with the blood of Chthonians."
+(Applied to all armor)
+Epic Augment
+10% Pierce Resistance
+10% Chaos Resistance
+Required Player Level: 90
+Item Level: 90
+Faction: Coven of Ugdenbog
+Faction: Coven of Ugdenbog
+Ashes of Malmouth
+Coven Bloodied Ash
+"Ashes infused by the Coven with the blood of Wendigos."
+(Applied to all armor)
+Epic Augment
+Increases Health Regeneration by 8%
+10% Bleeding Resistance
+Required Player Level: 90
+Item Level: 90
+Faction: Coven of Ugdenbog
+Faction: Coven of Ugdenbog
+Ashes of Malmouth
+Coven Warding Powder
+"Sorcerous powder crafted by the Coven to protect them during rituals."
+(Applied to all armor)
+Epic Augment
+9% Elemental Resistance
+Required Player Level: 90
+Item Level: 90
+Faction: Coven of Ugdenbog
+Faction: Coven of Ugdenbog
+Ashes of Malmouth
+Dreeg's Fiendblood
+"A gift from the witch god Dreeg, derived from the chthonic fiends the Great Guardian has crushed at the gates of the Eldritch Realm."
+(Applied to all armor)
+Epic Augment
+12% Poison & Acid Resistance
+10% Chaos Resistance
+Required Player Level: 90
+Item Level: 90
+Faction: Cult of Dreeg
+Faction: Cult of Dreeg
+Forgotten Gods
+Dreeg's Omen
+"A gift from the witch god Dreeg that offers the bearer brief flashes of the future."
+(Applied to all armor)
+Epic Augment
++30 Defensive Ability
+Required Player Level: 90
+Item Level: 90
+Faction: Cult of Dreeg
+Faction: Cult of Dreeg
+Forgotten Gods
+Dreeg's Veilward
+"A gift from the witch god Dreeg intended to shield the mind from the mind-altering visions imparted by the Great Guardian upon his followers."
+(Applied to all armor)
+Epic Augment
++8% Constitution
+15% Aether Resistance
+Required Player Level: 90
+Item Level: 90
+Faction: Cult of Dreeg
+Faction: Cult of Dreeg
+Forgotten Gods
+Malmouth Fortifying Powder
+"Sorcerous powder used to renew strength even after hours of exhausting combat."
+(Applied to all armor)
+Epic Augment
+Increases Health Regeneration by 8%
+10% Vitality Resistance
+Required Player Level: 90
+Item Level: 90
+Faction: Malmouth Resistance
+Faction: Malmouth Resistance
+Ashes of Malmouth
+Malmouth Soulguard Powder
+"Sorcerous powder crafted in Malmouth to protect the survivors from Aetherial possession. Nobody's been bold enough to test its effectiveness though."
+(Applied to all armor)
+Epic Augment
+10% Pierce Resistance
+10% Aether Resistance
+Required Player Level: 90
+Item Level: 90
+Faction: Malmouth Resistance
+Faction: Malmouth Resistance
+Ashes of Malmouth
+Malmouth Woundsear Powder
+"Sorcerous powder often used to singe wounds in an emergency. A painful process, but still more desirable than bleeding out."
+(Applied to all armor)
+Epic Augment
+10% Vitality Resistance
+10% Bleeding Resistance
+Required Player Level: 90
+Item Level: 90
+Faction: Malmouth Resistance
+Faction: Malmouth Resistance
+Ashes of Malmouth
+Solael's Bloodbinding
+"A gift from the witch god Solael, a foul powder used in rituals that bind the recipients to Solael's covenant."
+(Applied to all armor)
+Epic Augment
++150 Health
++16 Defensive Ability
+Required Player Level: 90
+Item Level: 90
+Faction: Cult of Solael
+Faction: Cult of Solael
+Forgotten Gods
+Solael's Soulbinding
+"A gift from the witch god Solael, a vile powder used in spirit-binding rituals for the Eldritch Flame to devour."
+(Applied to all armor)
+Epic Augment
+10% Pierce Resistance
+10% Vitality Resistance
+Required Player Level: 90
+Item Level: 90
+Faction: Cult of Solael
+Faction: Cult of Solael
+Forgotten Gods
+Solael's Voidward
+"A gift from the witch god Solael intended to shield the mind from the ravages of the void so that the Eldritch Flame may study its secrets unhindered."
+(Applied to all armor)
+Epic Augment
+15% Chaos Resistance
+Required Player Level: 90
+Item Level: 90
+Faction: Cult of Solael
+Faction: Cult of Solael
+Forgotten Gods
+Wendigo Bloodscent Powder
+"A gift from the Ravager to stifle blood loss and make the user more difficult to track."
+(Applied to all armor)
+Epic Augment
+15% Bleeding Resistance
+Required Player Level: 90
+Item Level: 90
+Faction: Barrowholm
+Faction: Barrowholm
+Ashes of Malmouth
+Wendigo Lifescent Powder
+"A gift from the Ravager to strengthen the mortal coil."
+(Applied to all armor)
+Epic Augment
++4% Health
+Required Player Level: 90
+Item Level: 90
+Faction: Barrowholm
+Faction: Barrowholm
+Ashes of Malmouth
+Wendigo Soulscent Powder
+"A gift from the Ravager to ward the soul against wraiths."
+(Applied to all armor)
+Epic Augment
+15% Vitality Resistance
+Required Player Level: 90
+Item Level: 90
+Faction: Barrowholm
+Faction: Barrowholm
+Ashes of Malmouth
+Rune of Amatok's Breath
+"An ancient symbol of power thought lost to a shattered reality."
+(Applied to Medals)
+Legendary Augment
+Granted Skills
+Amatok's Breath (Granted by Item)
+Charge through your foes towards a target destination, leaving them chilled with Amatok's breath. When used with a shield, the shield's damage is added.
+66 Energy Cost
+2.5 Second Skill Recharge
+2 Meter Target Area
+16 Meter Range
+240% Weapon Damage
+300-450 Cold Damage
+700 Frostburn Damage over 2 Seconds
+Freeze target for 2 Seconds
++300% Movement Speed
+Required Player Level: 90
+Item Level: 90
+Blueprint: Rune of Amatok's Breath
+Forgotten Gods
+Rune of Astral Rifts
+"An ancient symbol of power thought lost to a shattered reality."
+(Applied to Medals)
+Legendary Augment
+Granted Skills
+Astral Rift (Granted by Item)
+Warp the veil to instantly travel towards a target destination and unleash a surge of arcane energies.
+120 Energy Cost
+4.8 Second Skill Recharge
+5 Meter Target Area
+15 Meter Range
+300 Fire Damage
+250-350 Aether Damage
+Petrify target for 3 Seconds
+Required Player Level: 90
+Item Level: 90
+Blueprint: Rune of Astral Rifts
+Forgotten Gods
+Rune of Blazing Ends
+"An ancient symbol of power thought lost to a shattered reality."
+(Applied to Medals)
+Legendary Augment
+Granted Skills
+Blazing Charge (Granted by Item)
+Charge forth into battle and incinerate your foe with the flames of a dying god. Requires a melee weapon. When used with a shield, the shield's damage is added.
+90 Energy Cost
+3 Second Skill Recharge
+90 Degree Attack Arc
+3 Target Maximum
+380% Weapon Damage
+400 Fire Damage
+400 Chaos Damage
+2000 Burn Damage over 5 Seconds
++25% Crit Damage
+Knockdown target for 1.5 - 3 Seconds
++300% Movement Speed
+Required Player Level: 90
+Item Level: 90
+Blueprint: Rune of Blazing Ends
+Forgotten Gods
+Rune of Dark Desires
+"An ancient symbol of power thought lost to a shattered reality."
+(Applied to Medals)
+Legendary Augment
+Granted Skills
+Dark Desires (Granted by Item)
+Tear through the veil to strike a foe with the destabilizing force of chaos. Requires a melee weapon.
+90 Energy Cost
+2.6 Second Skill Recharge
+340% Weapon Damage
+600-900 Chaos Damage
+180 Reduced target's Offensive Ability for 3 Seconds
++500% Movement Speed
+Required Player Level: 90
+Item Level: 90
+Blueprint: Rune of Dark Desires
+Forgotten Gods
+Rune of Displacement
+"An ancient symbol of power thought lost to a shattered reality."
+(Applied to Medals)
+Legendary Augment
+Granted Skills
+Displacement (Granted by Item)
+Reality becomes a plaything as you instantly warp towards a target destination.
+120 Energy Cost
+3.2 Second Skill Recharge
+17 Meter Range
+Required Player Level: 90
+Item Level: 90
+Blueprint: Rune of Displacement
+Forgotten Gods
+Rune of Dreeg's Wounds
+"An ancient symbol of power thought lost to a shattered reality."
+(Applied to Medals)
+Legendary Augment
+Granted Skills
+Dreeg's Wounds (Granted by Item)
+Leap through the air towards a target destination and deliver grievous wounds reminiscent of the suffering of the Great Guardian upon your foes.
+70 Energy Cost
+3.5 Second Skill Recharge
+5 Meter Target Area
+18 Meter Range
+260% Weapon Damage
+40% of Retaliation Damage added to Attack
+300 Acid Damage
+300 Vitality Damage
+16% Chance for target to Fumble attacks for 2 Seconds
+16% Chance of Impaired Aim to target for 2 Seconds
+Required Player Level: 90
+Item Level: 90
+Blueprint: Rune of Dreeg's Wounds
+Forgotten Gods
+Rune of Eldritch Instability
+"An ancient symbol of power thought lost to a shattered reality."
+(Applied to Medals)
+Legendary Augment
+Granted Skills
+Eldritch Instability (Granted by Item)
+Leap through the air towards a target destination and destabilize reality where you land.
+70 Energy Cost
+3.5 Second Skill Recharge
+4.5 Meter Target Area
+18 Meter Range
+275% Weapon Damage
+250 Physical Damage
+250 Acid Damage
+18% Chance for target to Fumble attacks for 3 Seconds
+Required Player Level: 90
+Item Level: 90
+Blueprint: Rune of Eldritch Instability
+Forgotten Gods
+Rune of Fallen Kings
+"An ancient symbol of power thought lost to a shattered reality."
+(Applied to Medals)
+Legendary Augment
+Granted Skills
+Will of the Fallen Kings (Granted by Item)
+Filled with the determination of kings, charge through your foes towards a target destination. When used with a shield, the shield's damage is added.
+66 Energy Cost
+2.5 Second Skill Recharge
+2 Meter Target Area
+16 Meter Range
+240% Weapon Damage
+30% of Retaliation Damage added to Attack
+500 Aether Damage
++33% Crit Damage
++300% Movement Speed
+Required Player Level: 90
+Item Level: 90
+Blueprint: Rune of Fallen Kings
+Forgotten Gods
+Rune of Ishtak's Mercy
+"An ancient symbol of power thought lost to a shattered reality."
+(Applied to Medals)
+Legendary Augment
+Granted Skills
+Ishtak's Mercy (Granted by Item)
+Instill the peace of Ishtak upon your foes as you disengage from battle.
+60 Energy Cost
+2 Second Skill Recharge
+6 Meter Target Area
+18 Meter Range
+Petrify target for 4 Seconds
+180 Reduced target's Defensive Ability for 4 Seconds
+15% Reduced target's Damage for 5 Seconds
+Required Player Level: 90
+Item Level: 90
+Blueprint: Rune of Ishtak's Mercy
+Forgotten Gods
+Rune of Murmur's Kiss
+"An ancient symbol of power thought lost to a shattered reality."
+(Applied to Medals)
+Legendary Augment
+Granted Skills
+Murmur's Kiss (Granted by Item)
+Disengage from battle in a surge of toxic energies that leave your foes shaken and demoralized.
+60 Energy Cost
+3 Second Skill Recharge
+5 Meter Target Area
+18 Meter Range
+220 Cold Damage
+220 Acid Damage
+220 Reduced target's Offensive Ability for 4 Seconds
+15% Reduced target's Damage for 5 Seconds
+Required Player Level: 90
+Item Level: 90
+Blueprint: Rune of Murmur's Kiss
+Forgotten Gods
+Rune of Nadaan's Strike
+"An ancient symbol of power thought lost to a shattered reality."
+(Applied to Medals)
+Legendary Augment
+Granted Skills
+Nadaan's Strike (Granted by Item)
+Shift through the shadows to instantly transport yourself towards a target destination and assault nearby foes with a ring of blades.
+120 Energy Cost
+4.8 Second Skill Recharge
+3.5 Meter Target Area
+15 Meter Range
+150% Weapon Damage
+300 Physical Damage
+300 Piercing Damage
++45% Crit Damage
+Required Player Level: 90
+Item Level: 90
+Blueprint: Rune of Nadaan's Strike
+Forgotten Gods
+Rune of the Dark Progenitor
+"An ancient symbol of power thought lost to a shattered reality."
+(Applied to Medals)
+Legendary Augment
+Granted Skills
+Upon Rylok Wings (Granted by Item)
+Leap through the air towards a target destination and crash down in a chaotic eruption.
+70 Energy Cost
+3.5 Second Skill Recharge
+4.5 Meter Target Area
+18 Meter Range
+260% Weapon Damage
+250-500 Chaos Damage
+170 Reduced target's Offensive Ability for 3 Seconds
+170 Reduced target's Defensive Ability for 3 Seconds
+Required Player Level: 90
+Item Level: 90
+Blueprint: Rune of the Dark Progenitor
+Forgotten Gods
+Rune of the Dreadnought
+"An ancient symbol of power thought lost to a shattered reality."
+(Applied to Medals)
+Legendary Augment
+Granted Skills
+Dreadnought's Might (Granted by Item)
+Leap through the air towards a target destination with devastating might and smash any foes unfortunate enough to be where you land.
+70 Energy Cost
+3.5 Second Skill Recharge
+6 Meter Target Area
+18 Meter Range
+260% Weapon Damage
+300 Piercing Damage
+700 Bleeding Damage over 2 Seconds
+20% Slow target for 2 Seconds
+Required Player Level: 90
+Item Level: 90
+Blueprint: Rune of the Dreadnought
+Forgotten Gods
+Rune of the Stormtitan
+"An ancient symbol of power thought lost to a shattered reality."
+(Applied to Medals)
+Legendary Augment
+Granted Skills
+Stormtitan's Charge (Granted by Item)
+Charge a target foe with the crushing might of a stormtitan. Requires a melee weapon. When used with a shield, the shield's damage is added.
+90 Energy Cost
+3 Second Skill Recharge
+90 Degree Attack Arc
+3 Target Maximum
+400% Weapon Damage
+450-660 Lightning Damage
+1200 Electrocute Damage over 3 Seconds
+Stun target for 2 Seconds
++300% Movement Speed
+Required Player Level: 90
+Item Level: 90
+Blueprint: Rune of the Stormtitan
+Forgotten Gods
+Rune of the Typhoon
+"An ancient symbol of power thought lost to a shattered reality."
+(Applied to Medals)
+Legendary Augment
+Granted Skills
+Typhoon (Granted by Item)
+Disengage from battle with the destructive force of a typhoon.
+60 Energy Cost
+3 Second Skill Recharge
+5 Meter Target Area
+18 Meter Range
+900 Frostburn Damage over 3 Seconds
+900 Electrocute Damage over 3 Seconds
+50% Slow target for 5 Seconds
+15% Reduced target's Damage for 5 Seconds
+Required Player Level: 90
+Item Level: 90
+Blueprint: Rune of the Typhoon
+Forgotten Gods
+Rune of Ultos' Arrival
+"An ancient symbol of power thought lost to a shattered reality."
+(Applied to Medals)
+Legendary Augment
+Granted Skills
+Ultos' Arrival (Granted by Item)
+Instantly travel through reality itself towards a target destination and arrive in a thunderous eruption.
+120 Energy Cost
+4.8 Second Skill Recharge
+7 Meter Target Area
+15 Meter Range
+250 Cold Damage
+250 Lightning Damage
+900 Electrocute Damage over 3 Seconds
+30% Slow target for 3 Seconds
+Required Player Level: 90
+Item Level: 90
+Blueprint: Rune of Ultos' Arrival
+Forgotten Gods
+Rune of Ulzaad's Madness
+"An ancient symbol of power thought lost to a shattered reality."
+(Applied to Medals)
+Legendary Augment
+Granted Skills
+Ulzaad's Madness (Granted by Item)
+Sow the confusion and rage of a mad titan as you disengage from battle.
+60 Energy Cost
+3 Second Skill Recharge
+6 Meter Target Area
+18 Meter Range
+250 Physical Damage
+250 Piercing Damage
+Confuse target for 3 Seconds
+15% Reduced target's Damage for 5 Seconds
+Required Player Level: 90
+Item Level: 90
+Blueprint: Rune of Ulzaad's Madness
+Forgotten Gods
+Rune of Ulzuin's Fall
+"An ancient symbol of power thought lost to a shattered reality."
+(Applied to Medals)
+Legendary Augment
+Granted Skills
+Ulzuin's Fall (Granted by Item)
+Leap through the air towards a target destination and descend upon your foes in a fiery crash.
+70 Energy Cost
+3.5 Second Skill Recharge
+5 Meter Target Area
+18 Meter Range
+260% Weapon Damage
+300 Fire Damage
+300 Aether Damage
+Stun target for 2.5 Seconds
+Required Player Level: 90
+Item Level: 90
+Blueprint: Rune of Ulzuin's Fall
+Forgotten Gods
+Rune of Vampiric Shadows
+"An ancient symbol of power thought lost to a shattered reality."
+(Applied to Medals)
+Legendary Augment
+Granted Skills
+Vampiric Shadows (Granted by Item)
+Tear through the shadows to strike a target foe with vampiric voracity. Requires a melee weapon.
+90 Energy Cost
+2.6 Second Skill Recharge
+340% Weapon Damage
+600 Vitality Damage
+25% of Attack Damage converted to Health
+800 Bleeding Damage over 2 Seconds
++500% Movement Speed
+Required Player Level: 90
+Item Level: 90
+Blueprint: Rune of Vampiric Shadows
+Forgotten Gods
+Rune of Violent Delights
+"An ancient symbol of power thought lost to a shattered reality."
+(Applied to Medals)
+Legendary Augment
+Granted Skills
+Violent Delights (Granted by Item)
+Relish in the carnage as your charge through your foes towards a target destination. When used with a shield, the shield's damage is added.
+66 Energy Cost
+2.5 Second Skill Recharge
+2 Meter Target Area
+16 Meter Range
+240% Weapon Damage
+300-450 Physical Damage
+700 Bleeding Damage over 2 Seconds
+20% Slower Enemy Attack for 2 Seconds
++300% Movement Speed
+Required Player Level: 90
+Item Level: 90
+Blueprint: Rune of Violent Delights
+Forgotten Gods
+Rune of Wretched Desires
+"An ancient symbol of power thought lost to a shattered reality."
+(Applied to Medals)
+Legendary Augment
+Granted Skills
+Wretched Desires (Granted by Item)
+Disengage from battle in a surge of vile void energies.
+60 Energy Cost
+3 Second Skill Recharge
+5 Meter Target Area
+18 Meter Range
+220-480 Chaos Damage
+18% Reduced target's Damage for 5 Seconds
+Required Player Level: 90
+Item Level: 90
+Blueprint: Rune of Wretched Desires
+Forgotten Gods

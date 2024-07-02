@@ -1,8 +1,6 @@
 import re
 import csv
 
-unavailable = ["Ugdenbog Leather", "Spellscorched Plating", "Titan Plating", "Tainted Heart", "Sacred Plating"]
-
 class Addon:
 	def __init__(self, name, raw_text):
 		self.name = name
@@ -53,7 +51,7 @@ class Addon:
 	def set_required_status(self):
 		status = 0
 		# This is all just from going around to the various vendors and marking down their required player level & tier
-		# Honestly a bad practice but I have no other ideas and this seems to be somehow consistant throughout the game
+		# Honestly a bad practice but I have no other ideas and this seems to be somehow consistent throughout the game
 		match self.item_level:
 			case 1:
 				status = 1
@@ -95,8 +93,8 @@ class Addon:
 	def is_valid(self):
 		return len(self.slots) > 0 and len(self.resistances) > 0
 	
-	def check_availability(self, player_stats):
-		if self.name in unavailable:
+	def check_availability(self, player_stats, blacklist):
+		if self.name in blacklist:
 			return False
 		
 		if self.required_player_level > player_stats["player_level"]:
@@ -122,6 +120,7 @@ class AddonParser:
 		self.filename = filename
 		self.addons = []
 		self.player_stats = None
+		self.blacklist = []
 
 	def print_all_addons(self):
 		for i, addon in enumerate(self.addons, 1):
@@ -214,12 +213,17 @@ class AddonParser:
 	def set_player_stats(self, stats):
 		self.player_stats = stats
 
+	def read_blacklist(self, blacklist_file):
+		with open(blacklist_file, "r") as file:
+			reader = csv.reader(file)
+			self.blacklist = [row[0] for row in reader]
+
 	def check_addon_availability(self):
 		if self.player_stats is None:
 			raise ValueError("Player stats have not been set. Call set_player_stats() first.")
 		
 		for addon in self.addons:
-			addon.available = addon.check_availability(self.player_stats)
+			addon.available = addon.check_availability(self.player_stats, self.blacklist)
 
 class StatsReader:
 	@staticmethod
@@ -241,6 +245,8 @@ def main():
 
 	stats = StatsReader.read_stats("stats.csv")
 	parser.set_player_stats(stats)
+
+	parser.read_blacklist("blacklist.csv")
 	parser.check_addon_availability()
 
 	parser.print_all_addons()
